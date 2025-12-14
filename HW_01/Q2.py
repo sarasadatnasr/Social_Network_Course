@@ -234,3 +234,357 @@ def plot_robustness_pair(b, x, r, title_suffix):
 plot_robustness_pair(b=11, x=3, r=15, title_suffix="g) Subcritical")
 plot_robustness_pair(b=11, x=4, r=30, title_suffix="g) Supercritical")
 plot_robustness_pair(b=11, x=5, r=70, title_suffix="g) Connected")
+
+
+# ---------- Spy plot for RG adjacency matrix ----------
+def plot_rg_adjacency_spy(b=10, x=5, r=32, seed=42, figsize=(8, 6)):
+    """
+    Generate and plot spy plot (heatmap) of RG adjacency matrix.
+    Similar to the provided image: 'RG sample adjacency (spy) - b=10, x=5, R=32'
+    """
+    # Generate RG network
+    A = generate_rg(b, x, r, seed=seed)
+    N = 2**b
+    
+    # Create the plot
+    fig, ax = plt.subplots(figsize=figsize)
+    
+    # Use colormap similar to first plots
+    # Using 'viridis' colormap which is colorful and matches matplotlib defaults
+    cmap = plt.cm.viridis
+    
+    # Plot the adjacency matrix
+    im = ax.imshow(A, cmap=cmap, aspect='auto', interpolation='nearest')
+    
+    # Set labels and title
+    ax.set_xlabel('Destination node index', fontsize=12)
+    ax.set_ylabel('Source node index', fontsize=12)
+    
+    # Add grid lines for better visibility
+    ax.set_xticks(np.linspace(0, N-1, 6, dtype=int))
+    ax.set_yticks(np.linspace(0, N-1, 6, dtype=int))
+    
+    # Format tick labels
+    ax.set_xticklabels([f'{int(tick)}' for tick in ax.get_xticks()])
+    ax.set_yticklabels([f'{int(tick)}' for tick in ax.get_yticks()])
+    
+    # Add a colorbar
+    cbar = plt.colorbar(im, ax=ax, shrink=0.8)
+    cbar.set_label('Edge presence', fontsize=10)
+    
+    # Add title with parameters
+    ax.set_title(f'RG Adjacency Matrix (Spy Plot)\nb={b}, x={x}, r={r}, N={N}', 
+                 fontsize=14, pad=15)
+    
+    # Add grid for better readability
+    ax.grid(True, which='both', color='white', linestyle='--', linewidth=0.5, alpha=0.3)
+    
+    # Add text box with statistics
+    stats_text = f'Density: {density(A):.4f}\n'
+    stats_text += f'Total edges: {A.sum():,}'
+    
+    # Place text box in upper left
+    props = dict(boxstyle='round', facecolor='wheat', alpha=0.8)
+    ax.text(0.02, 0.98, stats_text, transform=ax.transAxes, fontsize=10,
+            verticalalignment='top', bbox=props)
+    
+    plt.tight_layout()
+    return fig, ax, A
+
+# ---------- Alternative spy plot using scatter (for sparse matrices) ----------
+def plot_rg_adjacency_sparse_spy(b=10, x=5, r=32, seed=42, figsize=(8, 6), marker_size=1):
+    """
+    Generate sparse spy plot using scatter plot - more efficient for large sparse matrices.
+    This style is closer to traditional spy plots in MATLAB.
+    """
+    # Generate RG network
+    A = generate_rg(b, x, r, seed=seed)
+    N = 2**b
+    
+    # Get coordinates of non-zero entries
+    rows, cols = np.where(A)
+    
+    fig, ax = plt.subplots(figsize=figsize)
+    
+    # Use a color from viridis colormap (matching the first plots)
+    color_map = plt.cm.viridis(0.7)  # Get a specific color from viridis colormap
+    
+    # Plot only the non-zero entries
+    ax.scatter(cols, rows, s=marker_size, c=[color_map], marker='s', alpha=0.7)
+    
+    # Invert y-axis to match matrix convention
+    ax.invert_yaxis()
+    
+    # Set labels and title
+    ax.set_xlabel('Destination node index', fontsize=12)
+    ax.set_ylabel('Source node index', fontsize=12)
+    
+    # Set limits
+    ax.set_xlim(-0.5, N-0.5)
+    ax.set_ylim(N-0.5, -0.5)
+    
+    # Add grid
+    ax.grid(True, which='both', color='lightgray', linestyle='--', linewidth=0.5, alpha=0.5)
+    
+    # Set ticks
+    tick_positions = np.linspace(0, N-1, 6, dtype=int)
+    ax.set_xticks(tick_positions)
+    ax.set_yticks(tick_positions)
+    
+    # Format tick labels
+    ax.set_xticklabels([f'{pos}' for pos in tick_positions])
+    ax.set_yticklabels([f'{pos}' for pos in tick_positions])
+    
+    ax.set_title(f'RG Adjacency Spy Plot\nb={b}, x={x}, r={r}, N={N}', 
+                 fontsize=14, pad=15)
+    
+    # Add statistics
+    density_val = density(A)
+    stats_text = f'Density: {density_val:.4f}\n'
+    stats_text += f'Edges: {A.sum():,}\n'
+    stats_text += f'Non-zero: {len(rows):,}'
+    
+    props = dict(boxstyle='round', facecolor='wheat', alpha=0.8)
+    ax.text(0.02, 0.98, stats_text, transform=ax.transAxes, fontsize=10,
+            verticalalignment='top', bbox=props)
+    
+    plt.tight_layout()
+    return fig, ax, A
+
+# ---------- Compare multiple RG networks ----------
+def plot_multiple_rg_spy_plots(params_list, figsize=(15, 10)):
+    """
+    Plot multiple RG adjacency matrices for comparison.
+    params_list: list of tuples (b, x, r, seed, title_suffix)
+    """
+    n_plots = len(params_list)
+    n_cols = min(3, n_plots)
+    n_rows = (n_plots + n_cols - 1) // n_cols
+    
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=figsize, 
+                             constrained_layout=True)
+    
+    # Flatten axes array for easier indexing
+    if n_plots > 1:
+        axes = axes.flatten()
+    else:
+        axes = [axes]
+    
+    # Use a colormap that matches your first plots
+    cmap = plt.cm.viridis  # Change to your preferred colormap
+    
+    for idx, (b, x, r, seed, title_suffix) in enumerate(params_list):
+        ax = axes[idx]
+        A = generate_rg(b, x, r, seed=seed)
+        N = 2**b
+        
+        # Use imshow with colormap
+        im = ax.imshow(A, cmap=cmap, aspect='auto', interpolation='nearest')
+        
+        # Simple grid
+        ax.grid(True, color='white', linestyle='--', linewidth=0.5, alpha=0.3)
+        
+        # Set title with parameters
+        ax.set_title(f'{title_suffix}\nb={b}, x={x}, r={r}, ρ={density(A):.4f}', 
+                     fontsize=10)
+        
+        # Only show ticks for first row and first column
+        if idx >= n_plots - n_cols:  # Last row
+            ax.set_xlabel('Dest idx')
+            tick_positions = np.linspace(0, N-1, 3, dtype=int)
+            ax.set_xticks(tick_positions)
+            ax.set_xticklabels([f'{int(t)}' for t in tick_positions])
+        else:
+            ax.set_xticks([])
+            
+        if idx % n_cols == 0:  # First column
+            ax.set_ylabel('Src idx')
+            tick_positions = np.linspace(0, N-1, 3, dtype=int)
+            ax.set_yticks(tick_positions)
+            ax.set_yticklabels([f'{int(t)}' for t in tick_positions])
+        else:
+            ax.set_yticks([])
+    
+    # Hide unused subplots
+    for idx in range(n_plots, len(axes)):
+        axes[idx].set_visible(False)
+    
+    # Add overall title
+    fig.suptitle('RG Network Adjacency Matrices Comparison', fontsize=16, y=1.02)
+    
+    # Add a single colorbar for all subplots
+    fig.colorbar(im, ax=axes, shrink=0.8, label='Edge presence')
+    
+    return fig, axes
+
+# ---------- Add to your main execution ----------
+# Add this to your main code after generating other plots:
+
+print("\n=== Generating RG Adjacency Spy Plots ===")
+
+# Plot 1: The specific case from your image (b=10, x=5, r=32)
+print("Generating spy plot for b=10, x=5, r=32...")
+fig1, ax1, A1 = plot_rg_adjacency_spy(b=10, x=5, r=32, seed=42)
+plt.savefig("Q2/rg_adjacency_spy_b10_x5_r32.png", dpi=150, bbox_inches='tight')
+plt.show()
+
+# Plot 2: Sparse version
+print("Generating sparse spy plot...")
+fig2, ax2, A2 = plot_rg_adjacency_sparse_spy(b=10, x=5, r=32, seed=42, marker_size=0.5)
+plt.savefig("Q2/rg_adjacency_sparse_spy_b10_x5_r32.png", dpi=150, bbox_inches='tight')
+plt.show()
+
+# Plot 3: Comparison of different parameter sets
+print("Generating comparison plots...")
+params_comparison = [
+    (10, 3, 16, 1, "Sparse RG"),
+    (10, 5, 32, 2, "Medium RG"),
+    (10, 7, 64, 3, "Dense RG"),
+    (10, 4, 20, 4, "Low wildcards"),
+    (10, 6, 40, 5, "High wildcards"),
+    (10, 5, 100, 6, "Many rules")
+]
+
+fig3, axes3 = plot_multiple_rg_spy_plots(params_comparison, figsize=(15, 8))
+plt.savefig("Q2/rg_adjacency_comparison.png", dpi=150, bbox_inches='tight')
+plt.show()
+
+# ---------- Additional analysis: Pattern visualization ----------
+def visualize_pattern_rule(b=10, x=5, rule_idx=0, seed=42):
+    """
+    Visualize a specific rule's matching nodes.
+    """
+    if seed is not None:
+        np.random.seed(seed)
+    
+    N = 2**b
+    labels = [format(i, f"0{b}b") for i in range(N)]
+    
+    # Generate a specific rule
+    positions = np.arange(b)
+    x_pos = np.random.choice(positions, size=x, replace=False)
+    fixed_pos = np.setdiff1d(positions, x_pos)
+    fixed_bits = np.random.randint(0, 2, size=fixed_pos.size)
+    
+    # Create pattern strings
+    pattern_chars = ['X'] * b
+    for p, bit in zip(fixed_pos, fixed_bits):
+        pattern_chars[p] = str(bit)
+    pattern = ''.join(pattern_chars)
+    
+    print(f"Rule Pattern: {pattern}")
+    print(f"Wildcard positions: {sorted(x_pos)}")
+    print(f"Fixed positions: {sorted(fixed_pos)} with bits {fixed_bits}")
+    
+    # Find matching nodes
+    matching_nodes = []
+    for idx, lab in enumerate(labels):
+        ok = True
+        for p in range(b):
+            if pattern[p] != 'X' and pattern[p] != lab[p]:
+                ok = False
+                break
+        if ok:
+            matching_nodes.append(idx)
+    
+    print(f"\nMatching nodes: {len(matching_nodes)} out of {N} ({len(matching_nodes)/N*100:.2f}%)")
+    print(f"Sample matching nodes (first 5): {matching_nodes[:5]}")
+    print(f"Corresponding binary strings: {[labels[i] for i in matching_nodes[:5]]}")
+    
+    # Visualize the matching pattern
+    fig, ax = plt.subplots(figsize=(12, 3))
+    
+    # Create a matrix showing the pattern
+    pattern_matrix = np.zeros((1, b))
+    for i in range(b):
+        if pattern[i] == 'X':
+            pattern_matrix[0, i] = 0.5  # Gray for wildcard
+        elif pattern[i] == '0':
+            pattern_matrix[0, i] = 0.0  # Black for 0
+        else:
+            pattern_matrix[0, i] = 1.0  # White for 1
+    
+    im = ax.imshow(pattern_matrix, cmap='gray', aspect='auto')
+    ax.set_xticks(range(b))
+    ax.set_xticklabels([str(i) for i in range(b)])
+    ax.set_yticks([])
+    ax.set_title(f"Pattern Visualization: {pattern}\n(Black=0, White=1, Gray=X)")
+    
+    # Add text annotations
+    for i in range(b):
+        text_color = 'white' if pattern_matrix[0, i] < 0.3 else 'black'
+        ax.text(i, 0, pattern[i], ha='center', va='center', 
+                color=text_color, fontsize=12, fontweight='bold')
+    
+    plt.tight_layout()
+    plt.savefig("Q2/pattern_visualization.png", dpi=150, bbox_inches='tight')
+    plt.show()
+    
+    return pattern, matching_nodes
+
+# Visualize a sample rule pattern
+print("\n=== Visualizing a Sample Rule Pattern ===")
+pattern, matches = visualize_pattern_rule(b=10, x=5, rule_idx=0, seed=42)
+
+# ---------- Degree correlation analysis for RG networks ----------
+def analyze_rg_degree_correlation(b=10, x=5, r=32, seed=42):
+    """Analyze degree correlations in RG network."""
+    A = generate_rg(b, x, r, seed=seed)
+    
+    # Calculate degrees
+    out_deg = A.sum(axis=1)
+    in_deg = A.sum(axis=0)
+    
+    # Create NetworkX graph for analysis
+    G = nx.DiGraph(A)
+    
+    # Calculate degree correlations
+    if len(G.edges()) > 0:
+        # In-in degree correlation
+        in_in_pairs = [(in_deg[u], in_deg[v]) for u, v in G.edges()]
+        in_in_corr = np.corrcoef([p[0] for p in in_in_pairs], 
+                                 [p[1] for p in in_in_pairs])[0, 1]
+        
+        # Out-out degree correlation
+        out_out_pairs = [(out_deg[u], out_deg[v]) for u, v in G.edges()]
+        out_out_corr = np.corrcoef([p[0] for p in out_out_pairs], 
+                                   [p[1] for p in out_out_pairs])[0, 1]
+    else:
+        in_in_corr = out_out_corr = np.nan
+    
+    print(f"\n=== Degree Correlation Analysis (b={b}, x={x}, r={r}) ===")
+    print(f"In-degree correlation: {in_in_corr:.4f}")
+    print(f"Out-degree correlation: {out_out_corr:.4f}")
+    print(f"Average in-degree: {np.mean(in_deg):.2f}")
+    print(f"Average out-degree: {np.mean(out_deg):.2f}")
+    print(f"In-degree variance: {np.var(in_deg):.2f}")
+    print(f"Out-degree variance: {np.var(out_deg):.2f}")
+    
+    # Plot degree-degree scatter
+    fig, axes = plt.subplots(1, 2, figsize=(12, 5))
+    
+    if len(G.edges()) > 0:
+        # In-in scatter
+        in_sources = [in_deg[u] for u, v in G.edges()]
+        in_targets = [in_deg[v] for u, v in G.edges()]
+        axes[0].scatter(in_sources, in_targets, alpha=0.5, s=10)
+        axes[0].set_xlabel('Source node in-degree')
+        axes[0].set_ylabel('Target node in-degree')
+        axes[0].set_title(f'In-In Degree Correlation: {in_in_corr:.3f}')
+        
+        # Out-out scatter
+        out_sources = [out_deg[u] for u, v in G.edges()]
+        out_targets = [out_deg[v] for u, v in G.edges()]
+        axes[1].scatter(out_sources, out_targets, alpha=0.5, s=10, color='red')
+        axes[1].set_xlabel('Source node out-degree')
+        axes[1].set_ylabel('Target node out-degree')
+        axes[1].set_title(f'Out-Out Degree Correlation: {out_out_corr:.3f}')
+    
+    plt.tight_layout()
+    plt.savefig("Q2/rg_degree_correlation.png", dpi=150, bbox_inches='tight')
+    plt.show()
+
+# Analyze degree correlations
+analyze_rg_degree_correlation(b=10, x=5, r=32, seed=42)
+
+print("\n=== All plots have been generated and saved to Q2/ directory ===")
