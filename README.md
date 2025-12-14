@@ -35,5 +35,3 @@ The repo includes simulation outputs and figures detailing the scaling of averag
 * Barabási, A.-L., Network Science, Cambridge University Press, 2016.
 * Barabási, D. L., Czégel, D., Constructing graphs from genetic encodings, Nature Communications, 2017.
 
-Let me know if you want to refine or add anything!
-
