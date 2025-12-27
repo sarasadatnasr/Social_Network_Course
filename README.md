@@ -20,7 +20,7 @@ This repository contains the implementation and analysis for Homework 2 of the S
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/Social-Network-HW02.git
+   git clone https://github.com/sarasadatnasr/Social_Network_Course.git
    ```
 
 2. Install the required dependencies:
