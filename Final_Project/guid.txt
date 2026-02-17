@@ -1,0 +1,99 @@
+i have 3 folder with same content but for different platform [telegram, instagram, twitter]
+lets start with telgram: 
+telegram_10_to_24_dey_edge.csv [node1,node2,directed BOOLEAN,weight DOUBLE]
+telegram_10_to_24_dey_node.csv [nodedef_name,label_VARCHAR,views_INT,followers_INT,importance_DOUBLE,posts_INT,positive_INT,negative_INT,neutral_INT]
+
+1. telegram_10_to_24_dey_edge.csv
+
+This file contains data about edges in the network, with the following columns:
+
+node1: The source node of the edge (ID of the referring account).
+
+node2: The target node of the edge (ID of the original publisher).
+
+directed: Always TRUE indicating a directed edge.
+
+weight: The weight of the edge, which indicates how many times the content was referenced or shared.
+
+2. telegram_10_to_24_dey_node.csv
+
+This file contains information about the nodes, including:
+
+nodedef_name: Unique account or channel identifier (numeric).
+
+label: The username of the account/channel (could be dynamic due to changes in usernames over time).
+
+views: Total views of the posts made by the account/channel.
+
+followers: The number of followers of the account/channel at the moment of data collection.
+
+importance: A combined non-linear number representing the importance of the account based on posts, views, and interactions.
+
+posts: The number of posts/tweets made by the account/channel.
+
+positive: The number of positive posts (expressing approval or joy).
+
+negative: The number of negative posts (expressing dissatisfaction or anger).
+
+neutral: The number of neutral posts (no strong opinion).
+
+
+
+sample:
+nodedef_name,label_VARCHAR,views_INT,followers_INT,importance_DOUBLE,posts_INT,positive_INT,negative_INT,neutral_INT
+1402136762,girlyy1,335,132679,1.2829179743877657,84,0,84,0
+
+node1,node2,directed BOOLEAN,weight DOUBLE
+1000018594,1002765601,true,2
+
+
+-----------------------------------------------------------
+telegram_15_dey.csv[platform,name,username,follower,link,date,date(jalali),text,type,copy,impression,engagement,comment,like,forward,sentiment,avatar]
+telegram_16_dey.csv[platform,name,username,follower,link,date,date(jalali),text,type,copy,impression,engagement,comment,like,forward,sentiment,avatar]
+telegram_17_dey.csv[platform,name,username,follower,link,date,date(jalali),text,type,copy,impression,engagement,comment,like,forward,sentiment,avatar]
+telegram_18_dey.csv[platform,name,username,follower,link,date,date(jalali),text,type,copy,impression,engagement,comment,like,forward,sentiment,avatar]
+telegram_19_dey.csv[platform,name,username,follower,link,date,date(jalali),text,type,copy,impression,engagement,comment,like,forward,sentiment,avatar]
+telegram_20_dey.csv[platform,name,username,follower,link,date,date(jalali),text,type,copy,impression,engagement,comment,like,forward,sentiment,avatar]
+
+3. telegram_15_dey.csv, telegram_16_dey.csv, ..., telegram_20_dey.csv
+
+These files contain the actual posts made on Telegram. The columns include:
+
+platform: The platform (Telegram in this case).
+
+name: The publisher's name.
+
+username: The account's username.
+
+follower: The total number of followers of the account at the time of the post.
+
+link: The link to the post.
+
+date: The date of the post (Gregorian calendar).
+
+date(jalali): The date in Jalali (Persian) calendar.
+
+text: The content of the post.
+
+type: The type of post (e.g., original, reshared, quoted, reply).
+
+copy: The number of copies of this post without reference.
+
+impression: The number of views of the post.
+
+engagement: The total user interactions (likes, shares, comments).
+
+comment: The number of comments on the post.
+
+like: The number of likes on the post.
+
+forward: The number of times the post was forwarded.
+
+sentiment: The sentiment of the post (positive, negative, neutral).
+
+avatar: The link to the user's avatar.
+
+sample:
+
+platform,name,username,follower,link,date,date(jalali),text,type,copy,impression,engagement,comment,like,forward,sentiment,avatar
+telegram,Moltafet,moltafchannel,32514,https://telegram.me/moltafchannel/157,2026-01-05 10:35:46,۱۴۰۴-۱۰-۱۵ ۱۴:۰۵:۴۶,رِند  soundcloud.com/mahdyar/sets/rend اگر دریافت البوم از ادرس بالا برای شما در ایران دشوار است می توانید ام پی 3 تمام اهنگ های البوم را در یک فایل از تلگرام زیر دریافت کنید:  t.me/moltafchannel به رسم همیشه، اگر قصد حمایت مالی از این البوم را دارید لطفاً همان مبلغ را بی درنگ خرج نابودی جمهوری اسلامی کنید. ,اصلی,0,156491,7458.0,0,0,7458,منفی,https://telegram.me/moltafchannel
