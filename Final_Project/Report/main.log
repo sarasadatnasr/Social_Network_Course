@@ -1,0 +1,2384 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.18)  21 FEB 2026 02:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(packages.tex
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count279
+\float@exts=\toks18
+\float@box=\box53
+\@float@everytoks=\toks19
+\@floatcapt=\box54
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen151
+\WF@size=\dimen152
+\c@WF@wrappedlines=\count280
+\WF@box=\box55
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen153
+))
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen154
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count281
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count282
+\leftroot@=\count283
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count284
+\DOTSCASE@=\count285
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen155
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count286
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count287
+\dotsspace@=\muskip17
+\c@parentequation=\count288
+\dspbrk@lvl=\count289
+\tag@help=\toks22
+\row@=\count290
+\column@=\count291
+\maxfields@=\count292
+\andhelp@=\toks23
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
+\@envbody=\toks24
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen162
+\ar@mcellbox=\box58
+\extrarowheight=\dimen163
+\NC@list=\toks26
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box59
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen164
+\lightrulewidth=\dimen165
+\cmidrulewidth=\dimen166
+\belowrulesep=\dimen167
+\belowbottomsep=\dimen168
+\aboverulesep=\dimen169
+\abovetopsep=\dimen170
+\cmidrulesep=\dimen171
+\cmidrulekern=\dimen172
+\defaultaddspace=\dimen173
+\@cmidla=\count293
+\@cmidlb=\count294
+\@aboverulesep=\dimen174
+\@belowrulesep=\dimen175
+\@thisruleclass=\count295
+\@lastruleclass=\count296
+\@thisrulewidth=\dimen176
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen177
+\TX@old@table=\dimen178
+\TX@old@col=\dimen179
+\TX@target=\dimen180
+\TX@delta=\dimen181
+\TX@cols=\count297
+\TX@ftn=\toks27
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip56
+\LTright=\skip57
+\LTpre=\skip58
+\LTpost=\skip59
+\LTchunksize=\count298
+\LTcapwidth=\dimen182
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
+\LT@gbox=\box64
+\LT@cols=\count299
+\LT@rows=\count300
+\c@LT@tables=\count301
+\c@LT@chunks=\count302
+\LT@p@ftn=\toks28
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count303
+\calc@Bcount=\count304
+\calc@Adimen=\dimen183
+\calc@Bdimen=\dimen184
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count305
+\calc@Cskip=\skip62
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip63
+\RaggedLeftLeftskip=\skip64
+\RaggedRightLeftskip=\skip65
+\CenteringRightskip=\skip66
+\RaggedLeftRightskip=\skip67
+\RaggedRightRightskip=\skip68
+\CenteringParfillskip=\skip69
+\RaggedLeftParfillskip=\skip70
+\RaggedRightParfillskip=\skip71
+\JustifyingParfillskip=\skip72
+\CenteringParindent=\skip73
+\RaggedLeftParindent=\skip74
+\RaggedRightParindent=\skip75
+\JustifyingParindent=\skip76
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip77
+\enit@outerparindent=\dimen185
+\enit@toks=\toks29
+\enit@inbox=\box65
+\enit@count@id=\count306
+\enitdp@description=\count307
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count308
+)) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
+y
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/seqsplit\seqsplit.sty
+Package: seqsplit 2006/08/07 v0.1 Splitting long sequences (DNA, RNA, proteins,
+ etc.) 
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip78
+\f@nch@offset@elh=\skip79
+\f@nch@offset@erh=\skip80
+\f@nch@offset@olh=\skip81
+\f@nch@offset@orh=\skip82
+\f@nch@offset@elf=\skip83
+\f@nch@offset@erf=\skip84
+\f@nch@offset@olf=\skip85
+\f@nch@offset@orf=\skip86
+\f@nch@height=\skip87
+\f@nch@footalignment=\skip88
+\f@nch@widthL=\skip89
+\f@nch@widthC=\skip90
+\f@nch@widthR=\skip91
+\@temptokenb=\toks30
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.st
+y
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen186
+\captionmargin=\dimen187
+\caption@leftmargin=\dimen188
+\caption@rightmargin=\dimen189
+\caption@width=\dimen190
+\caption@indent=\dimen191
+\caption@parindent=\dimen192
+\caption@hangindent=\dimen193
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count309
+\c@continuedfloat=\count310
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count311
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count312
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/algorithm2e\algorithm2e
+.sty
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count313
+ (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip92
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count314
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip93
+\skiplinenumber=\skip94
+\skiprule=\skip95
+\skiphlne=\skip96
+\skiptext=\skip97
+\skiplength=\skip98
+\algomargin=\skip99
+\skipalgocfslide=\skip100
+\algowidth=\dimen194
+\inoutsize=\dimen195
+\inoutindent=\dimen196
+\interspacetitleruled=\dimen197
+\interspacealgoruled=\dimen198
+\interspacetitleboxruled=\dimen199
+\algocf@ruledwidth=\skip101
+\algocf@inoutbox=\box66
+\algocf@inputbox=\box67
+\AlCapSkip=\skip102
+\AlCapHSkip=\skip103
+\algoskipindent=\skip104
+\algocf@nlbox=\box68
+\algocf@hangingbox=\box69
+\algocf@untilbox=\box70
+\algocf@skipuntil=\skip105
+\algocf@capbox=\box71
+\algocf@lcaptionbox=\skip106
+\algoheightruledefault=\skip107
+\algoheightrule=\skip108
+\algotitleheightruledefault=\skip109
+\algotitleheightrule=\skip110
+\c@algocfline=\count315
+\c@algocfproc=\count316
+\c@algocf=\count317
+\algocf@algoframe=\box72
+\algocf@algobox=\box73
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/minted\minted.sty
+Package: minted 2025/05/14 v3.7.0 Yet another Pygments shim for LaTeX
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.s
+ty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)))
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2025/05/29 v1.13.2 fvextra - extensions and patches for fancyv
+rb
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count318
+\FV@InFile=\read2
+\FV@TabBox=\box74
+\c@FancyVerbLine=\count319
+\FV@StepNumber=\count320
+\FV@OutFile=\write3
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2025/05/13 line numbers on paragraphs v5.5
+\linenopenalty=\count321
+\output=\toks31
+\linenoprevgraf=\count322
+\linenumbersep=\dimen256
+\linenumberwidth=\dimen257
+\c@linenumber=\count323
+\c@pagewiselinenumber=\count324
+\c@LN@truepage=\count325
+\c@internallinenumber=\count326
+\c@internallinenumbers=\count327
+\quotelinenumbersep=\dimen258
+\bframerule=\dimen259
+\bframesep=\dimen260
+\bframebox=\box75
+\@LN@amsmath@ams@eqpen=\count328
+)
+\c@FancyVerbWriteLine=\count329
+\c@FancyVerbBufferLine=\count330
+\c@FV@TrueTabGroupLevel=\count331
+\c@FV@TrueTabCounter=\count332
+\FV@TabBox@Group=\box76
+\FV@bgcolorstructbox=\box77
+\FV@TmpLength=\skip111
+\c@FV@HighlightLinesStart=\count333
+\c@FV@HighlightLinesStop=\count334
+\FV@LoopCount=\count335
+\FV@NCharsBox=\box78
+\FV@BreakIndent=\dimen261
+\FV@BreakIndentNChars=\count336
+\FV@BreakSymbolSepLeft=\dimen262
+\FV@BreakSymbolSepLeftNChars=\count337
+\FV@BreakSymbolSepRight=\dimen263
+\FV@BreakSymbolSepRightNChars=\count338
+\FV@BreakSymbolIndentLeft=\dimen264
+\FV@BreakSymbolIndentLeftNChars=\count339
+\FV@BreakSymbolIndentRight=\dimen265
+\FV@BreakSymbolIndentRightNChars=\count340
+\c@FancyVerbLineBreakLast=\count341
+\FV@LineBox=\box79
+\FV@LineIndentBox=\box80
+\c@FV@BreakBufferDepth=\count342
+\FV@LineWidth=\dimen266
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/latex2pydata\latex2pyda
+ta.sty
+Package: latex2pydata 2025/03/26 v0.6.0 latex2pydata - write data to file in Py
+thon literal format
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+)))
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks35
+\pgfopts@list@add@b@toks=\toks36
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@minted@FancyVerbLineTemp=\count343
+\@float@every@listing=\toks37
+\c@listing=\count344
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xepersian\xepersian.sty
+Package: xepersian 2026/01/01 v26.01.01 (Release Iran) Persian typesetting in X
+eLaTeX
+****************************************************
+* 
+* xepersian package (Persian for LaTeX format in XeTeX and LuaTeX engines)
+* 
+* Description: A convenient interface for typesetting Persian and
+English documents with LaTeX format in XeTeX and LuaTeX engines.
+* 
+* Copyright (c) 2008--2026 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v26.01.01 (Release Iran), 2026/01/01
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/unicodetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/xepersian/xepersian/issues
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count345
+\g__pdfannot_backend_int=\count346
+\g__pdfannot_backend_link_int=\count347
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count348
+\l__fontspec_language_int=\count349
+\l__fontspec_strnum_int=\count350
+\l__fontspec_tmp_int=\count351
+\l__fontspec_tmpa_int=\count352
+\l__fontspec_tmpb_int=\count353
+\l__fontspec_tmpc_int=\count354
+\l__fontspec_em_int=\count355
+\l__fontspec_emdef_int=\count356
+\l__fontspec_strong_int=\count357
+\l__fontspec_strongdef_int=\count358
+\l__fontspec_tmpa_dim=\dimen267
+\l__fontspec_tmpb_dim=\dimen268
+\l__fontspec_tmpc_dim=\dimen269
+ (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xepersian\unicode-persi
+ancal.sty
+Package: unicode-persiancal 2025/01/01 v0.3 Unicode Persian calendar
+\XePersian@i=\count359
+\XePersian@y=\count360
+\XePersian@m=\count361
+\XePersian@d=\count362
+\XePersian@latini=\count363
+\XePersian@persiani=\count364
+\XePersian@latinii=\count365
+\XePersian@persianii=\count366
+\XePersian@latiniii=\count367
+\XePersian@persianiii=\count368
+\XePersian@latiniv=\count369
+\XePersian@persianiv=\count370
+\XePersian@latinv=\count371
+\XePersian@persianv=\count372
+\XePersian@latinvi=\count373
+\XePersian@persianvi=\count374
+\XePersian@latinvii=\count375
+\XePersian@persianvii=\count376
+\XePersian@latinviii=\count377
+\XePersian@persianviii=\count378
+\XePersian@latinix=\count379
+\XePersian@persianix=\count380
+\XePersian@latinx=\count381
+\XePersian@persianx=\count382
+\XePersian@latinxi=\count383
+\XePersian@persianxi=\count384
+\XePersian@latinxii=\count385
+\XePersian@persianxii=\count386
+\XePersian@persianxiii=\count387
+\XePersian@temp=\count388
+\XePersian@temptwo=\count389
+\XePersian@tempthree=\count390
+\XePersian@yModHundred=\count391
+\XePersian@thirtytwo=\count392
+\XePersian@dn=\count393
+\XePersian@sn=\count394
+\XePersian@mminusone=\count395
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xepersian\unicode-persi
+anmath.sty
+Package: unicode-persianmath 2026/01/01 v1.2.6 Unicode Persian math
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\bidi.sty
+Package: bidi 2026/01/08 v26.01.08 (Release Iran) Bidirectional typesetting in 
+plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting with
+* plain TeX and LaTeX formats in XeTeX and LuaTeX engines)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2026 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v26.01.08 (Release Iran), 2026/01/08
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/unicodetex/generic/bidi
+* 
+* Issue tracker: https://github.com/xepersian/bidi/issues
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\biditools.sty
+Package: biditools 2025/12/19 v2.9 Programming tools for bidi package
+\@bidi@envbody=\toks38
+\@bidi@emptytoks=\toks39
+\bidi@poscount=\count396
+\bidi@tempcountb=\count397
+\bidi@temptoksa=\toks40
+\bidi@temptoksb=\toks41
+\bidi@dummies=\count398
+\bidi@are@these@correct=\toks42
+\bidi@toks@lista=\toks43
+\bidi@toks@listb=\toks44
+\bidi@stack@length=\count399
+\bidi@empty@stack=\toks45
+\bidi@looprepeat@depth=\count400
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2025-06-08 v2.36 Module abspage for zref (HO)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2025-06-08 v2.36 Module base for zref (HO)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count401
+Package zref Info: New property: abspage on input line 67.
+)
+\@bidi@copyins@=\insert252
+\bidi@typesethour=\count402
+\bidi@typesetminute=\count403
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\latex-xetex-bidi.d
+ef
+File: latex-xetex-bidi.def 2025/12/19 v1.5.6 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks46
+LaTeX Info: Redefining \centerline on input line 317.
+LaTeX Info: Redefining \leftline on input line 326.
+LaTeX Info: Redefining \rightline on input line 327.
+LaTeX Info: Redefining \underline on input line 335.
+\bidi@column@check@number=\count404
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\footnote-xetex-bid
+i.def
+File: footnote-xetex-bidi.def 2025/09/30 v1.6 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count405
+\footdir@toks=\toks47
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\article-xetex-bidi
+.def
+File: article-xetex-bidi.def 2025/09/30 v1.2 bidi adaptations for standard arti
+cle class for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\algorithm2e-xetex-
+bidi.def
+File: algorithm2e-xetex-bidi.def 2025/01/03 v0.3 bidi adaptations for algorithm
+2e package for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\amsmath-xetex-bidi
+.def
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\amstext-xetex-bidi
+.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\array-xetex-bidi.d
+ef
+File: array-xetex-bidi.def 2025/12/06 v0.8 bidi adaptations for array package f
+or XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\caption-xetex-bidi
+.def
+File: caption-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for caption packa
+ge for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\caption3-xetex-bid
+i.def
+File: caption3-xetex-bidi.def 2013/04/01 v0.1 bidi adaptations for caption3 pac
+kage for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\color-xetex-bidi.d
+ef
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
+or XeTeX engine
+LaTeX Info: Redefining \color on input line 50.
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\fancyhdr-xetex-bid
+i.def
+File: fancyhdr-xetex-bidi.def 2025/09/03 v1.0 bidi adaptations for fancyhdr pac
+kage for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\float-xetex-bidi.d
+ef
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\graphicx-xetex-bid
+i.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\lineno-xetex-bidi.
+def
+File: lineno-xetex-bidi.def 2024/12/07 v0.3 bidi adaptations for lineno package
+ for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\longtable-xetex-bi
+di.def
+File: longtable-xetex-bidi.def 2025/01/05 v0.8 bidi adaptations for longtable p
+ackage for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\ragged2e-xetex-bid
+i.def
+File: ragged2e-xetex-bidi.def 2018/10/17 v0.3 bidi adaptations for ragged2e pac
+kage for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\tabularx-xetex-bid
+i.def
+File: tabularx-xetex-bidi.def 2014/11/08 v0.1 bidi adaptations for tabularx pac
+kage for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\wrapfig-xetex-bidi
+.def
+File: wrapfig-xetex-bidi.def 2014/04/23 v0.3 bidi adaptations for wrapfig packa
+ge for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\xcolor-xetex-bidi.
+def
+File: xcolor-xetex-bidi.def 2022/06/13 v0.3 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 49.
+LaTeX Info: Redefining \bidicolor on input line 92.
+))
+\bidi@digits=\count406
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+\xepersian@tcl=\count407
+\xepersian@ilg=\dimen270
+\xepersian@strutilg=\dimen271
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xepersian\footnote-xete
+x-bidi-xetex-xepersian.def
+File: footnote-xetex-bidi-xetex-xepersian.def 2017/08/09 v0.6 xepersian adaptat
+ions for footnotes for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xepersian\article-xetex
+-xepersian.def
+File: article-xetex-xepersian.def 2010/07/25 v0.2 xepersian adaptations for sta
+ndard article class for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xepersian\enumitem-xete
+x-xepersian.def
+File: enumitem-xetex-xepersian.def 2017/09/06 v0.1 xepersian adaptations for en
+umitem package for XeTeX engine
+)
+\xepersian@toks=\toks48
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'XBYas(0)' created for font 'XB Yas' with
+(fontspec)             options
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Path=./fo
+nts/,BoldFont={XB
+(fontspec)             Yas Bd},ItalicFont={XB Yas It},BoldItalicFont={XB Yas
+(fontspec)             BdIt},Extension = .ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"[./fonts/XB
+(fontspec)             Yas.ttf]/OT:script=latn;language=dflt;script=arab;mappin
+g=persian-tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"[./fonts/XB Yas
+(fontspec)             Bd.ttf]/OT:script=latn;language=dflt;script=arab;mapping
+=persian-tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"[./fonts/XB Yas
+(fontspec)             It.ttf]/OT:script=latn;language=dflt;script=arab;mapping
+=persian-tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"[./fonts/XB
+(fontspec)             Yas
+(fontspec)             BdIt.ttf]/OT:script=latn;language=dflt;script=arab;mappi
+ng=persian-tex-text;"
+
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count408
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen272
+\Hy@linkcounter=\count409
+\Hy@pagecounter=\count410
+ (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+) (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count411
+ (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count412
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xepersian\url-xetex-xep
+ersian.def
+File: url-xetex-xepersian.def 2025/09/03 v0.2 xepersian adaptations for url pac
+kage for XeTeX engine
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen273
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count413
+\Field@Width=\dimen274
+\Fld@charsize=\dimen275
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count414
+\c@Item=\count415
+\c@Hfootnote=\count416
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
+\pdfm@box=\box81
+\c@Hy@AnnotLevel=\count417
+\HyField@AnnotCount=\count418
+\Fld@listcount=\count419
+\c@bookmark@seq@number=\count420
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip112
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/xepersian\hyperref-xete
+x-xepersian.def
+File: hyperref-xetex-xepersian.def 2022/10/30 v0.8 xepersian adaptations for hy
+perref package for XeTeX engine
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\hyperref-xetex-bid
+i.def
+File: hyperref-xetex-bidi.def 2025/12/06 v1.5 bidi adaptations for hyperref pac
+kage for XeTeX engine
+)
+Package hyperref Info: Option `unicode' set `true' on input line 48.
+)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-dvipdfm.de
+f
+File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
+\BKM@id=\count421
+)) (commands.tex
+Package hyperref Info: Option `colorlinks' set `true' on input line 30.
+\@float@every@program=\toks49
+\c@program=\count422
+) (firstpage.tex)
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/bidi\float-xetex-bidi.d
+ef
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+) (main.aux)
+Runaway argument?
+{\c 
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.11 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 11.
+File: images/ut-logo.png Graphic file (type bmp)
+<images/ut-logo.png>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+
+(C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+]
+LaTeX Font Info:    Font shape `TU/XBYas(0)/m/sl' in size <10> not available
+(Font)              Font shape `TU/XBYas(0)/m/it' tried instead on input line 4
+3.
+ [2]
+File: images/Q1/telegram_top5_combined.png Graphic file (type bmp)
+<images/Q1/telegram_top5_combined.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/Q1/telegram_ego_bbcpersian.png Graphic file (type bmp)
+<images/Q1/telegram_ego_bbcpersian.png>
+File: images/Q1/telegram_ego_iranintltv.png Graphic file (type bmp)
+<images/Q1/telegram_ego_iranintltv.png>
+[3] [4]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 182.
+
+Overfull \hbox (15.83475pt too wide) in paragraph at lines 183--184
+[][]\TU/XBYas(0)/m/n/10 در شبکه \TU/lmtt/m/n/10 iranintltv \TU/XBYas(0)/m/n/10 
+(شکل [][][][][][]۲ب[][][][][][])، مجدداً \TU/lmtt/m/n/10 tyam_news \TU/XBYas(0)
+/m/n/10 و همچنین \TU/lmtt/m/n/10 rahesee \TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 
+vahidoonline[]
+ []
+
+File: images/Q1/telegram_ego_snidc.png Graphic file (type bmp)
+<images/Q1/telegram_ego_snidc.png>
+File: images/Q1/telegram_ego_iran_uk1.png Graphic file (type bmp)
+<images/Q1/telegram_ego_iran_uk1.png>
+[6]
+Overfull \hbox (32.9087pt too wide) in paragraph at lines 208--209
+[]\TU/XBYas(0)/m/n/10 حساب‌های سلطنتی‌طلب را نمایش می‌دهد. حساب‌هایی مانند \TU/
+lmtt/m/n/10 dssociety1\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 sdpadshahiparlemani
+[]
+ []
+
+
+Overfull \hbox (128.83388pt too wide) in paragraph at lines 208--209
+[]\TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 great_cyrus \TU/XBYas(0)/m/n/10 همگی در
+ یک جهت‌گیری سیاسی مشترک هستند. جالب توجه، حضور \TU/lmtt/m/n/10 savakshahrbanik
+eshvarshahanshahi[]
+ []
+
+File: images/Q1/telegram_ego_iranazadie.png Graphic file (type bmp)
+<images/Q1/telegram_ego_iranazadie.png>
+File: images/Q1/telegram_ego_manirani_am.png Graphic file (type bmp)
+<images/Q1/telegram_ego_manirani_am.png>
+File: images/Q1/telegram_ego_poshtpardeha.png Graphic file (type bmp)
+<images/Q1/telegram_ego_poshtpardeha.png>
+[7]
+Overfull \hbox (11.18555pt too wide) in paragraph at lines 249--249
+[][]\TU/XBYas(0)/b/n/12 خوشه حساب‌های پرنفوذ با گراف خالی (Influencers with Emp
+ty Graphs) []
+ []
+
+File: images/Q1/telegram_ego_choonkehghashange.png Graphic file (type bmp)
+<images/Q1/telegram_ego_choonkehghashange.png>
+File: images/Q1/telegram_ego_akhbarefori.png Graphic file (type bmp)
+<images/Q1/telegram_ego_akhbarefori.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8]
+File: images/Q1/telegram_ego_dorrtv.png Graphic file (type bmp)
+<images/Q1/telegram_ego_dorrtv.png>
+File: images/Q1/telegram_ego_fo_rk.png Graphic file (type bmp)
+<images/Q1/telegram_ego_fo_rk.png>
+File: images/Q1/telegram_ego_khabarfouri.png Graphic file (type bmp)
+<images/Q1/telegram_ego_khabarfouri.png>
+ [9]
+Overfull \hbox (30.62413pt too wide) in paragraph at lines 301--302
+[][]\TU/lmtt/b/n/10 dorrtv \TU/XBYas(0)/b/n/10 (شکل [][][][][][]۶آ[][][][][][])
+: \TU/XBYas(0)/m/n/10 شبکه این حساب شامل \TU/lmtt/m/n/10 poshtpardeha \TU/XBYas
+(0)/m/n/10 (که قبلاً دیدیم) و \TU/lmtt/m/n/10 iranrapasmigirim[]
+ []
+
+
+Overfull \hbox (89.33856pt too wide) in alignment at lines 309--327
+ [] [] [] 
+ []
+
+[10]
+Overfull \hbox (6.74pt too wide) in paragraph at lines 333--334
+[][]\TU/XBYas(0)/b/n/10 لایه اول - رسانه‌های مادر (Mother Ships): \TU/XBYas(0)/
+m/n/10 حساب‌هایی مانند \TU/lmtt/m/n/10 bbcpersian \TU/XBYas(0)/m/n/10 و \TU/lmt
+t/m/n/10 iranintltv[]
+ []
+
+
+Overfull \hbox (27.19441pt too wide) in paragraph at lines 334--335
+[][]\TU/XBYas(0)/b/n/10 لایه دوم - شبکه‌های تقویت‌کننده (Amplifiers): \TU/XBYas
+(0)/m/n/10 حساب‌هایی مانند \TU/lmtt/m/n/10 poshtpardeha\TU/XBYas(0)/m/n/10 ، \T
+U/lmtt/m/n/10 iranazadie[]
+ []
+
+
+Overfull \hbox (22.87477pt too wide) in paragraph at lines 336--337
+[][]\TU/XBYas(0)/b/n/10 لایه چهارم - عملیات‌های پنهان (Covert Ops): \TU/XBYas(0
+)/m/n/10 حساب‌هایی با گراف خالی (\TU/lmtt/m/n/10 choonkehghashange[]
+ []
+
+[11]
+File: images/Q1/instagram_top5_combined.png Graphic file (type bmp)
+<images/Q1/instagram_top5_combined.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (7.13193pt too wide) in paragraph at lines 452--463
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12] [13]
+File: images/Q1/instagram_ego_bbcpersian.png Graphic file (type bmp)
+<images/Q1/instagram_ego_bbcpersian.png>
+File: images/Q1/instagram_ego_iranwire.png Graphic file (type bmp)
+<images/Q1/instagram_ego_iranwire.png>
+ [14]
+Overfull \hbox (19.51248pt too wide) in paragraph at lines 492--493
+[][]\TU/XBYas(0)/m/n/10 در شبکه \TU/lmtt/m/n/10 bbcpersian \TU/XBYas(0)/m/n/10 
+(شکل [][][][][][]۸آ[][][][][][])، حساب‌های \TU/lmtt/b/n/10 indypersian \TU/XBYa
+s(0)/m/n/10 و \TU/lmtt/b/n/10 iranwire \TU/XBYas(0)/m/n/10 به عنوان بازنشرکنندگ
+ان[]
+ []
+
+File: images/Q1/instagram_ego_mahnaz_afshar.png Graphic file (type bmp)
+<images/Q1/instagram_ego_mahnaz_afshar.png>
+File: images/Q1/instagram_ego_aliiiiiiiikarimi8.png Graphic file (type bmp)
+<images/Q1/instagram_ego_aliiiiiiiikarimi8.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15]
+Overfull \hbox (10.35495pt too wide) in paragraph at lines 520--521
+[]\TU/XBYas(0)/m/n/10 شناخته‌شده‌ای هستند، نشان می‌دهد که علی کریمی یک \TU/XBYa
+s(0)/b/n/10 حلقه نخبگانی (Elite Circle) \TU/XBYas(0)/m/n/10 از بازنشرکنندگان[]
+ []
+
+File: images/Q1/instagram_ego_officialrezapahlavi.png Graphic file (type bmp)
+<images/Q1/instagram_ego_officialrezapahlavi.png>
+File: images/Q1/instagram_ego_reza.davoudi.pahlavism.png Graphic file (type bmp
+)
+<images/Q1/instagram_ego_reza.davoudi.pahlavism.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
+[][]\TU/XBYas(0)/m/n/9 (ب) |شبکه ایگوی[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (9.00606pt too wide) in paragraph at lines 544--545
+[]\TU/XBYas(0)/b/n/10 (Star Network) \TU/XBYas(0)/m/n/10 گسترده است. حضور حساب‌
+هایی با نام‌های نمادین مانند \TU/lmtt/m/n/10 iranian.monarchy[]
+ []
+
+
+Overfull \hbox (32.83516pt too wide) in paragraph at lines 544--545
+[]\TU/XBYas(0)/m/n/10 نشان‌دهنده وجود یک \TU/XBYas(0)/b/n/10 جامعه هواداری سازم
+ان‌یافته \TU/XBYas(0)/m/n/10 است. نکته مهم، حضور \TU/lmtt/m/n/10 etehad_etehad_
+mardomei[]
+ []
+
+
+Overfull \hbox (10.41383pt too wide) in paragraph at lines 545--546
+[][]\TU/XBYas(0)/b/n/10 شبکه \TU/lmtt/b/n/10 reza.davoudi.pahlavism \TU/XBYas(0
+)/b/n/10 (شکل [][][][][][]۱۰ب[][][][][][]): \TU/XBYas(0)/m/n/10 این شبکه که متع
+لق به یک فعال سلطنتی‌طلب[]
+ []
+
+[16]
+File: images/Q1/instagram_ego_avatoday1.png Graphic file (type bmp)
+<images/Q1/instagram_ego_avatoday1.png>
+File: images/Q1/instagram_ego_indypersian.png Graphic file (type bmp)
+<images/Q1/instagram_ego_indypersian.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+[][]\TU/XBYas(0)/m/n/9 (ب) |\TU/lmtt/m/n/9 indypersian \TU/XBYas(0)/m/n/9 (گراف
+[]
+ []
+
+File: images/Q1/instagram_ego_iranintltv.png Graphic file (type bmp)
+<images/Q1/instagram_ego_iranintltv.png>
+[17]
+File: images/Q1/instagram_ego_michaeltanidn.png Graphic file (type bmp)
+<images/Q1/instagram_ego_michaeltanidn.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--602
+[][]|\TU/XBYas(0)/m/n/10 شبکه‌های ستاره‌ای گسترده[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--602
+[][]|\TU/XBYas(0)/m/n/10 گراف‌های خالی با درجه ورودی بالا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
+[][]|\TU/XBYas(0)/m/n/10 گراف‌های خالی با درجه ورودی بالا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 603--604
+[][]|\TU/lmtt/m/n/10 etehad_etehad_mardomei \TU/XBYas(0)/m/n/10 (بین[]
+ []
+
+
+Overfull \hbox (80.39085pt too wide) in alignment at lines 593--605
+ [] [] [] 
+ []
+
+[18] [19] [20]
+Overfull \hbox (0.49843pt too wide) in paragraph at lines 656--657
+[][]\TU/XBYas(0)/b/n/10 وجود حلقه‌های تقویت مصنوعی (Astroturfing): \TU/XBYas(0)
+/m/n/10 حساب‌هایی نظیر \TU/lmtt/m/n/10 choonkehghashange[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:tw_iranintl' on page 21 undefined on input line 7
+59.
+
+[21] [22]
+
+LaTeX Warning: Reference `fig:tw_iranintlbrk' on page 23 undefined on input lin
+e 760.
+
+File: images/Q1/twitter_ego_indypersian.png Graphic file (type bmp)
+<images/Q1/twitter_ego_indypersian.png>
+File: images/Q1/twitter_ego_irannewsagency0.png Graphic file (type bmp)
+<images/Q1/twitter_ego_irannewsagency0.png>
+
+Overfull \hbox (13.7045pt too wide) in paragraph at lines 781--782
+[]\TU/XBYas(0)/m/n/10 مانند \TU/lmtt/m/n/10 javid_iran \TU/XBYas(0)/m/n/10 (جاو
+ید ایران، سلطنتی‌طلب) و \TU/lmtt/m/n/10 ghasedak189ardavan_afshar \TU/XBYas(0)/
+m/n/10 (قاصدک،[]
+ []
+
+[23]
+File: images/Q1/twitter_ego_aryammehr_2.png Graphic file (type bmp)
+<images/Q1/twitter_ego_aryammehr_2.png>
+File: images/Q1/twitter_ego_tanhayektiger.png Graphic file (type bmp)
+<images/Q1/twitter_ego_tanhayektiger.png>
+File: images/Q1/twitter_ego_ario1401.png Graphic file (type bmp)
+<images/Q1/twitter_ego_ario1401.png>
+File: images/Q1/twitter_ego_alferedio2000.png Graphic file (type bmp)
+<images/Q1/twitter_ego_alferedio2000.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (17.00854pt too wide) in paragraph at lines 828--829
+[]\TU/lmtt/m/n/10 aryobarzanmohe2 \TU/XBYas(0)/m/n/10 (آریوبرزن) و \TU/lmtt/m/n
+/10 starchobin \TU/XBYas(0)/m/n/10 (ستاره چوبین) نشان‌دهنده \TU/XBYas(0)/b/n/10
+ گرایش ناسیونالیستی-[]
+ []
+
+[24]
+File: images/Q1/twitter_ego_hamidmirpak.png Graphic file (type bmp)
+<images/Q1/twitter_ego_hamidmirpak.png>
+File: images/Q1/twitter_ego_sdqjaan.png Graphic file (type bmp)
+<images/Q1/twitter_ego_sdqjaan.png>
+ [25]
+Overfull \hbox (30.57799pt too wide) in paragraph at lines 853--854
+[]\TU/XBYas(0)/m/n/10 دوم Audience)، شبکه‌ای کاملاً پاکستانی دارد. اسامی مانند 
+\TU/lmtt/m/n/10 samiuullah5783\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 mubasha3874
+9196[]
+ []
+
+
+Overfull \hbox (15.08711pt too wide) in paragraph at lines 853--854
+[]\TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 junaidzaidi17 \TU/XBYas(0)/m/n/10 همگی 
+اردو‌زبان هستند. این نشان‌دهنده \TU/XBYas(0)/b/n/10 تلاشی سازمان‌یافته برای بین
+‌المللی‌سازی[]
+ []
+
+File: images/Q1/twitter_ego_arysabirshakir.png Graphic file (type bmp)
+<images/Q1/twitter_ego_arysabirshakir.png>
+File: images/Q1/twitter_ego_grok.png Graphic file (type bmp)
+<images/Q1/twitter_ego_grok.png>
+File: images/Q1/twitter_ego_sheed2610.png Graphic file (type bmp)
+<images/Q1/twitter_ego_sheed2610.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (6.59135pt too wide) in paragraph at lines 888--889
+[]\TU/XBYas(0)/m/n/10 یک حساب مرموز است. حضور \TU/lmtt/m/n/10 dr_y_yazdi \TU/XB
+Yas(0)/m/n/10 (دکتر یزدی، روحانی منتقد) و \TU/lmtt/m/n/10 ali_enayatzadeh[]
+ []
+
+[26]
+File: images/Q1/twitter_ego_enghelabezanane.png Graphic file (type bmp)
+<images/Q1/twitter_ego_enghelabezanane.png>
+ [27]
+File: images/Q1/twitter_ego_ptiofficial.png Graphic file (type bmp)
+<images/Q1/twitter_ego_ptiofficial.png>
+
+Overfull \hbox (17.3824pt too wide) in paragraph at lines 910--912
+[]\TU/XBYas(0)/m/n/10 Tehreek-e-Insaf” (حزب عمران خان) است. حضور این حساب در دا
+ده‌های ما نشان می‌دهد که \TU/XBYas(0)/b/n/10 سیاست‌پردازان[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
+[][]|\TU/XBYas(0)/b/n/10 پل سلطنتی-رسانه‌ای: \TU/XBYas(0)/m/n/10 حلقه اتصال خوش
+ه[]
+ []
+
+
+Overfull \hbox (117.7913pt too wide) in alignment at lines 915--935
+ [] [] [] 
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 946--947
+[][]|\TU/XBYas(0)/m/n/10 حساب‌های ناشناس و[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 947--947
+[][]|\TU/XBYas(0)/m/n/10 کانال‌های پل (مثل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 948--949
+[][]|\TU/XBYas(0)/m/n/10 بسیار بالا (پاکستان،[]
+ []
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 950--950
+[][]|\TU/XBYas(0)/m/n/10 متوسط (سلبریتی‌ها بی‌طرف[]
+ []
+
+
+Overfull \hbox (96.58304pt too wide) in alignment at lines 940--952
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.49pt too wide) in paragraph at lines 958--959
+[][]\TU/XBYas(0)/b/n/10 لایه اول - رسانه‌های مادر (Mother Ships): \TU/XBYas(0)/
+m/n/10 حساب‌هایی مانند \TU/lmtt/m/n/10 iranintl \TU/XBYas(0)/m/n/10 و \TU/lmtt/
+m/n/10 indypersian[]
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 973--975
+[][]
+ []
+
+[30] [31]
+Overfull \hbox (45.73872pt too wide) in alignment at lines 1006--1013
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (45.73872pt too wide) in alignment at lines 1013--1020
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (17.26283pt too wide) in paragraph at lines 1023--1023
+[][]|\TU/XBYas(0)/m/n/9 houshang.kaivani.hafshejani| []
+ []
+
+
+Overfull \hbox (1.42494pt too wide) in paragraph at lines 1026--1026
+[][]|\TU/XBYas(0)/m/n/9 avatodaypersian.official| []
+ []
+
+
+Overfull \hbox (5.09877pt too wide) in paragraph at lines 1027--1027
+[][]|\TU/XBYas(0)/m/n/9 official_rezamohammadi| []
+ []
+
+
+Overfull \hbox (7.09828pt too wide) in paragraph at lines 1029--1030
+[][]|\TU/XBYas(0)/m/n/9 etehad_etehad_mardomei| []
+ []
+
+
+Overfull \hbox (45.73872pt too wide) in alignment at lines 1020--1034
+ [] [] [] [] [] 
+ []
+
+File: images/Q2/instagram_top_nodes.png Graphic file (type bmp)
+<images/Q2/instagram_top_nodes.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (17.60463pt too wide) in paragraph at lines 1046--1050
+[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [][][][][][]۲۱[][][][][][].[] \TU/XBYas(0)/m
+/n/10 در Top-‏۱۰ PageRank، []\TU/lmroman10-regular(0)/m/n/10 avatoday1[] \TU/XB
+Yas(0)/m/n/10 و []\TU/lmroman10-regular(0)/m/n/10 iranintltv[] \TU/XBYas(0)/m/n
+/10 در صدرند و []\TU/lmroman10-regular(0)/m/n/10 officialrezapahlavi[][]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/Q2/instagram_scatter_hub_vs_authority.png Graphic file (type bmp)
+<images/Q2/instagram_scatter_hub_vs_authority.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32]
+File: images/Q2/instagram_scatter_pagerank_vs_windeg.png Graphic file (type bmp
+)
+<images/Q2/instagram_scatter_pagerank_vs_windeg.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33] [34] [35]
+File: images/Q2/instagram_backbone_elite.png Graphic file (type bmp)
+<images/Q2/instagram_backbone_elite.png>
+File: images/Q2/instagram_Correlation_heatmap.png Graphic file (type bmp)
+<images/Q2/instagram_Correlation_heatmap.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36]
+Missing character: There is no 主 in font [./fonts/XB Yas.ttf]/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no 干 in font [./fonts/XB Yas.ttf]/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+
+Overfull \hbox (0.88718pt too wide) in paragraph at lines 1164--1165
+[]\TU/XBYas(0)/m/n/10 خارج (ایران اینترنشنال، آوا تودی)، چهره‌های نمادین (رضا پ
+هلوی) و کنشگران (یاسمن خداجو، شمیرانی‌سعید)،[]
+ []
+
+
+Overfull \hbox (51.82332pt too wide) in alignment at lines 1170--1175
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (51.82332pt too wide) in alignment at lines 1175--1181
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (51.82332pt too wide) in alignment at lines 1181--1193
+ [] [] [] [] [] 
+ []
+
+[37]
+File: images/Q2/telegram_top_nodes.png Graphic file (type bmp)
+<images/Q2/telegram_top_nodes.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (17.49022pt too wide) in paragraph at lines 1203--1207
+[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [][][][][][]۲۵[][][][][][].[] \TU/XBYas(0)/m
+/n/10 در Top-‏۱۰ PageRank و Top-‏۱۰ Weighted In-Degree، []\TU/lmroman10-regular
+(0)/m/n/10 choonkehghashange[][]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/Q2/telegram_scatter_hub_vs_authority.png Graphic file (type bmp)
+<images/Q2/telegram_scatter_hub_vs_authority.png>
+[38]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/Q2/telegram_scatter_pagerank_vs_windeg.png Graphic file (type bmp)
+
+<images/Q2/telegram_scatter_pagerank_vs_windeg.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[39] [40] [41]
+Overfull \hbox (0.36694pt too wide) in paragraph at lines 1299--1300
+[]\TU/XBYas(0)/m/n/10 در سوی دیگر، کانال‌هایی مانند \TU/lmtt/m/n/10 kianmeli1\T
+U/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 javanmardi77\TU/XBYas(0)/m/n/10 ، \TU/lmtt/
+m/n/10 eterazebazar\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 sepehrazadi\TU/XBYas(0
+)/m/n/10 ،[]
+ []
+
+
+Overfull \hbox (13.11699pt too wide) in paragraph at lines 1302--1303
+[]\TU/XBYas(0)/m/n/10 لیست \TU/XBYas(0)/m/it/10 Hub \TU/XBYas(0)/m/n/10 در تلگر
+ام کاملاً توسط کانال‌های اعتراضی و ناشناس پر شده است: \TU/lmtt/m/n/10 piroozi14
+01\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 kabar2025\TU/XBYas(0)/m/n/10 ،[]
+ []
+
+
+Overfull \hbox (2.47478pt too wide) in paragraph at lines 1302--1303
+[]\TU/lmtt/m/n/10 protest_shora\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 ir_protest
+s\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 poshtpardeha\TU/XBYas(0)/m/n/10 ، \TU/lm
+tt/m/n/10 streetnews_online \TU/XBYas(0)/m/n/10 و ... این کانال‌ها[]
+ []
+
+[42]
+File: images/Q2/telegram_backbone_elite.png Graphic file (type bmp)
+<images/Q2/telegram_backbone_elite.png>
+File: images/Q2/telegram_Correlation_heatmap.png Graphic file (type bmp)
+<images/Q2/telegram_Correlation_heatmap.png>
+
+Overfull \hbox (8.52223pt too wide) in paragraph at lines 1324--1325
+[][]\TU/XBYas(0)/b/n/10 نمودار همبستگی (شکل [][][][][][]۲۸ب[][][][][][])\TU/XBY
+as(0)/m/n/10 : همبستگی بالای بین \TU/XBYas(0)/m/it/10 PageRank \TU/XBYas(0)/m/n
+/10 و \TU/XBYas(0)/m/it/10 In-Degree \TU/XBYas(0)/m/n/10 (۰.‏۷۶) نشان‌دهنده[]
+ []
+
+[43] [44]
+Overfull \hbox (6.3155pt too wide) in alignment at lines 1341--1346
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.3155pt too wide) in alignment at lines 1346--1352
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.3155pt too wide) in alignment at lines 1352--1364
+ [] [] [] [] [] 
+ []
+
+File: images/Q2/twitter_top_nodes.png Graphic file (type bmp)
+<images/Q2/twitter_top_nodes.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (4.50723pt too wide) in paragraph at lines 1376--1380
+[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [][][][][][]۲۹[][][][][][].[] \TU/XBYas(0)/m
+/n/10 در Top-‏۱۰ PageRank، []\TU/lmroman10-regular(0)/m/n/10 iranintl[] \TU/XBY
+as(0)/m/n/10 اول است (لنگر جریان) و سپس []\TU/lmroman10-regular(0)/m/n/10 tanha
+yektiger[]\TU/XBYas(0)/m/n/10 .[]
+ []
+
+[45]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46]
+
+LaTeX Warning: Citation `newman2010networks' on page 47 undefined on input line
+ 1436.
+
+[47]
+File: images/Q2/twitter_scatter_hub_vs_authority.png Graphic file (type bmp)
+<images/Q2/twitter_scatter_hub_vs_authority.png>
+File: images/Q2/twitter_scatter_pagerank_vs_windeg.png Graphic file (type bmp)
+<images/Q2/twitter_scatter_pagerank_vs_windeg.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[48] [49]
+File: images/Q2/twitter_backbone_elite.png Graphic file (type bmp)
+<images/Q2/twitter_backbone_elite.png>
+File: images/Q2/twitter_Correlation_heatmap.png Graphic file (type bmp)
+<images/Q2/twitter_Correlation_heatmap.png>
+
+
+LaTeX Warning: Citation `newman2003structure' on page 50 undefined on input lin
+e 1504.
+
+[50] [51]
+Underfull \hbox (badness 1097) in paragraph at lines 1516--1516
+[][]|\TU/XBYas(0)/m/n/10 سه‌قطبی (غیرسیاسی، رسمی،[]
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 1518--1518
+[][]|\TU/XBYas(0)/m/n/10 رسانه‌های اپوزیسیون (ایران[]
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 1518--1518
+[][]|\TU/XBYas(0)/m/n/10 کانال‌های اعتراضی (kian-[]
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 1518--1518
+[]\TU/XBYas(0)/m/n/10 meli۱) و کانال غیرسیاسی[]
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 1518--1519
+[][]|\TU/XBYas(0)/m/n/10 ترکیب رسانه‌های واقعی و[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1520--1520
+[][]|\TU/XBYas(0)/b/n/10 PageRank/In-[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1520--1520
+[][]|\TU/XBYas(0)/m/n/10 رسانه‌های رسمی و کانال[]
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 1521--1521
+[][]|\TU/XBYas(0)/m/n/10 همبستگی بالای Authority[]
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 1521--1521
+[]\TU/XBYas(0)/m/n/10 با In-Degree اما نه با[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1522
+[][]|\TU/XBYas(0)/m/n/10 محدود (حساب عددی[]
+ []
+
+
+Overfull \hbox (75.11218pt too wide) in paragraph at lines 1513--1524
+ [][][][] 
+ []
+
+[52] [53]
+Underfull \hbox (badness 10000) in paragraph at lines 1566--1568
+[][]
+ []
+
+[54]
+File: images/Q3/instagram_Sentiment_Innermost_Core.png Graphic file (type bmp)
+<images/Q3/instagram_Sentiment_Innermost_Core.png>
+ [55] [56]
+
+LaTeX Warning: Reference `fig:insta_wc' on page 57 undefined on input line 1624
+.
+
+
+LaTeX Warning: Citation `barabasi2016networkscience' on page 57 undefined on in
+put line 1626.
+
+File: images/Q3/instagram_WordCloud_indypersian.png Graphic file (type bmp)
+<images/Q3/instagram_WordCloud_indypersian.png>
+File: images/Q3/instagram_WordCloud_iranintltv.png Graphic file (type bmp)
+<images/Q3/instagram_WordCloud_iranintltv.png>
+File: images/Q3/instagram_WordCloud_manotoofficial.png Graphic file (type bmp)
+<images/Q3/instagram_WordCloud_manotoofficial.png>
+File: images/Q3/telegram_Sentiment_Innermost_Core.png Graphic file (type bmp)
+<images/Q3/telegram_Sentiment_Innermost_Core.png>
+[57]
+Overfull \hbox (9.8092pt too wide) in paragraph at lines 1692--1693
+[][]\TU/XBYas(0)/b/n/10 کانال‌های شخصیتی و کنشگران کلیدی: []\TU/lmroman10-regul
+ar(0)/m/n/10 rodast_omiddana[] \TU/XBYas(0)/m/n/10 (رودست امید دنا) و []\TU/lmr
+oman10-regular(0)/m/n/10 sepehrazadi[][]
+ []
+
+
+LaTeX Warning: Reference `fig:tel_wc_ro' on page 58 undefined on input line 169
+6.
+
+[58]
+File: images/Q3/telegram_WordCloud_poshtpardeha.png Graphic file (type bmp)
+<images/Q3/telegram_WordCloud_poshtpardeha.png>
+File: images/Q3/telegram_WordCloud_rodast_omiddana.png Graphic file (type bmp)
+<images/Q3/telegram_WordCloud_rodast_omiddana.png>
+File: images/Q3/telegram_WordCloud_sepehrazadi.png Graphic file (type bmp)
+<images/Q3/telegram_WordCloud_sepehrazadi.png>
+File: images/Q3/twitter_Sentiment_Innermost_Core.png Graphic file (type bmp)
+<images/Q3/twitter_Sentiment_Innermost_Core.png>
+
+
+LaTeX Warning: Reference `tab:twit_top' on page 59 undefined on input line 1735
+.
+
+[59]
+Overfull \hbox (3.90092pt too wide) in paragraph at lines 1764--1765
+[][]\TU/lmroman10-regular(0)/m/n/10 aryammehr_2[] \TU/XBYas(0)/m/n/10 و []\TU/l
+mroman10-regular(0)/m/n/10 sonofthebeach22[] \TU/XBYas(0)/m/n/10 نشان‌دهنده نقش
+ پررنگ روزنامه‌نگاران مستقل، تحلیلگران[]
+ []
+
+File: images/Q3/twitter_WordCloud_iranintl.png Graphic file (type bmp)
+<images/Q3/twitter_WordCloud_iranintl.png>
+File: images/Q3/twitter_WordCloud_iranintlbrk.png Graphic file (type bmp)
+<images/Q3/twitter_WordCloud_iranintlbrk.png>
+File: images/Q3/twitter_WordCloud_irannewsagency0.png Graphic file (type bmp)
+<images/Q3/twitter_WordCloud_irannewsagency0.png>
+
+LaTeX Warning: Reference `fig:twit_wc' on page 60 undefined on input line 1792.
+
+
+[60] [61]
+
+LaTeX Warning: Reference `fig:instagram_community' on page 62 undefined on inpu
+t line 1813.
+
+File: images/Q4/instagram_Community_Separated_Map.png Graphic file (type bmp)
+<images/Q4/instagram_Community_Separated_Map.png>
+
+LaTeX Warning: Reference `fig:telegram_community' on page 62 undefined on input
+ line 1841.
+
+
+Overfull \hbox (0.22093pt too wide) in paragraph at lines 1841--1842
+[]\TU/XBYas(0)/m/n/10 تلگرام با مقدار مِدولاریتی ۰.‏۶۲۴۲ بالاترین میزان تفکیک‌پ
+ذیری اجتماعات را نشان می‌دهد. ساختار کانال‌محور[]
+ []
+
+[62]
+File: images/Q4/telegram_Community_Separated_Map.png Graphic file (type bmp)
+<images/Q4/telegram_Community_Separated_Map.png>
+
+
+LaTeX Warning: Reference `fig:twitter_communiy' on page 63 undefined on input l
+ine 1868.
+
+File: images/Q4/twitter_Community_Separated_Map.png Graphic file (type bmp)
+<images/Q4/twitter_Community_Separated_Map.png>
+[63] [64]
+Overfull \hbox (14.1682pt too wide) in paragraph at lines 1904--1907
+[]\TU/XBYas(0)/m/n/10 در این بخش، به تحلیل عمیق نتایج حاصل از اجرای سه الگوریتم
+ کشف انجمن []\TU/lmroman10-regular(0)/m/n/10 Louvain[]\TU/XBYas(0)/m/n/10 ، []\
+TU/lmroman10-regular(0)/m/n/10 Label Propagation[][]
+ []
+
+
+LaTeX Warning: Reference `fig:instagram_decay' on page 65 undefined on input li
+ne 1909.
+
+
+LaTeX Warning: Reference `fig:telegram_decay' on page 65 undefined on input lin
+e 1909.
+
+
+LaTeX Warning: Reference `fig:twitter_decay' on page 65 undefined on input line
+ 1909.
+
+[65]
+File: images/Q5/instagram_community_size_decay.png Graphic file (type bmp)
+<images/Q5/instagram_community_size_decay.png>
+
+
+LaTeX Warning: Reference `fig:instagram_decay' on page 66 undefined on input li
+ne 1918.
+
+
+LaTeX Warning: Reference `tab:instagram' on page 66 undefined on input line 191
+8.
+
+File: images/Q5/telegram_community_size_decay.png Graphic file (type bmp)
+<images/Q5/telegram_community_size_decay.png>
+
+LaTeX Warning: Reference `fig:telegram_decay' on page 66 undefined on input lin
+e 1927.
+
+[66]
+File: images/Q5/twitter_community_size_decay.png Graphic file (type bmp)
+<images/Q5/twitter_community_size_decay.png>
+
+
+LaTeX Warning: Reference `fig:twitter_decay' on page 67 undefined on input line
+ 1936.
+
+
+LaTeX Warning: Reference `tab:twitter' on page 67 undefined on input line 1936.
+
+
+
+Overfull \hbox (139.32144pt too wide) in paragraph at lines 1945--1962
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:instagram_decay' on page 67 undefined on input li
+ne 1966.
+
+
+LaTeX Warning: Reference `fig:instagram_decay' on page 67 undefined on input li
+ne 1966.
+
+[67] [68]
+Overfull \hbox (145.42984pt too wide) in paragraph at lines 1982--1999
+ [][][][] 
+ []
+
+
+LaTeX Warning: Reference `fig:telegram_decay' on page 69 undefined on input lin
+e 2004.
+
+[69]
+Overfull \hbox (122.15347pt too wide) in paragraph at lines 2015--2032
+ [][][][] 
+ []
+
+
+LaTeX Warning: Reference `fig:twitter_decay' on page 70 undefined on input line
+ 2038.
+
+
+Overfull \hbox (1.3729pt too wide) in paragraph at lines 2039--2040
+[][]\TU/XBYas(0)/b/n/10 تنوع نمایندگان: \TU/XBYas(0)/m/n/10 نمایندگان انجمن‌ها 
+طیف وسیعی از جریان‌ها را پوشش می‌دهند. از حساب‌های[]
+ []
+
+[70]
+
+LaTeX Warning: Reference `fig:twitter_decay' on page 71 undefined on input line
+ 2041.
+
+
+LaTeX Warning: Reference `fig:instagram_decay' on page 71 undefined on input li
+ne 2045.
+
+
+LaTeX Warning: Reference `fig:telegram_decay' on page 71 undefined on input lin
+e 2045.
+
+
+LaTeX Warning: Reference `fig:twitter_decay' on page 71 undefined on input line
+ 2045.
+
+
+LaTeX Warning: Reference `fig:instagram_decay' on page 71 undefined on input li
+ne 2046.
+
+
+LaTeX Warning: Reference `fig:telegram_decay' on page 71 undefined on input lin
+e 2047.
+
+
+LaTeX Warning: Reference `fig:twitter_decay' on page 71 undefined on input line
+ 2048.
+
+[71]
+File: images/Q6/instagram_volume_series.png Graphic file (type bmp)
+<images/Q6/instagram_volume_series.png>
+ [72]
+
+LaTeX Warning: Reference `fig:insta_series' on page 73 undefined on input line 
+2095.
+
+File: images/Q6/instagram_activity_ratio_distribution.png Graphic file (type bm
+p)
+<images/Q6/instagram_activity_ratio_distribution.png>
+
+LaTeX Warning: Reference `fig:insta_dist' on page 73 undefined on input line 21
+04.
+
+File: images/Q6/instagram_sparklines_Inside_Iran.png Graphic file (type bmp)
+<images/Q6/instagram_sparklines_Inside_Iran.png>
+[73]
+
+LaTeX Warning: Reference `fig:insta_spark_inside' on page 74 undefined on input
+ line 2113.
+
+
+LaTeX Warning: Reference `tab:insta_top_inside' on page 74 undefined on input l
+ine 2122.
+
+File: images/Q6/instagram_sparklines_Outside_Iran.png Graphic file (type bmp)
+<images/Q6/instagram_sparklines_Outside_Iran.png>
+
+LaTeX Warning: Reference `fig:insta_spark_out' on page 74 undefined on input li
+ne 2131.
+
+[74]
+File: images/Q6/telegram_volume_series.png Graphic file (type bmp)
+<images/Q6/telegram_volume_series.png>
+
+
+LaTeX Warning: Reference `fig:tele_series' on page 75 undefined on input line 2
+175.
+
+File: images/Q6/telegram_activity_ratio_distribution.png Graphic file (type bmp
+)
+<images/Q6/telegram_activity_ratio_distribution.png>
+
+LaTeX Warning: Reference `fig:tele_dist' on page 75 undefined on input line 218
+4.
+
+[75] [76]
+File: images/Q6/telegram_sparklines_Inside_Iran.png Graphic file (type bmp)
+<images/Q6/telegram_sparklines_Inside_Iran.png>
+
+
+LaTeX Warning: Reference `fig:tele_spark_inside' on page 77 undefined on input 
+line 2193.
+
+
+LaTeX Warning: Citation `watts1998smallworld' on page 77 undefined on input lin
+e 2193.
+
+File: images/Q6/telegram_sparklines_Outside_Iran.png Graphic file (type bmp)
+<images/Q6/telegram_sparklines_Outside_Iran.png>
+
+LaTeX Warning: Reference `fig:tele_spark_out' on page 77 undefined on input lin
+e 2202.
+
+[77]
+File: images/Q6/twitter_volume_series.png Graphic file (type bmp)
+<images/Q6/twitter_volume_series.png>
+ [78]
+
+LaTeX Warning: Reference `fig:twit_series' on page 79 undefined on input line 2
+247.
+
+File: images/Q6/twitter_activity_ratio_distribution.png Graphic file (type bmp)
+
+<images/Q6/twitter_activity_ratio_distribution.png>
+
+LaTeX Warning: Reference `fig:twit_dist' on page 79 undefined on input line 225
+6.
+
+File: images/Q6/twitter_sparklines_Inside_Iran.png Graphic file (type bmp)
+<images/Q6/twitter_sparklines_Inside_Iran.png>
+
+LaTeX Warning: Reference `fig:twit_spark_inside' on page 79 undefined on input 
+line 2265.
+
+[79]
+File: images/Q6/twitter_sparklines_Outside_Iran.png Graphic file (type bmp)
+<images/Q6/twitter_sparklines_Outside_Iran.png>
+
+
+LaTeX Warning: Reference `fig:twit_spark_out' on page 80 undefined on input lin
+e 2283.
+
+[80] [81] [82]
+
+LaTeX Warning: Reference `fig:insta_dist' on page 83 undefined on input line 23
+55.
+
+
+LaTeX Warning: Reference `fig:tele_dist' on page 83 undefined on input line 235
+5.
+
+
+LaTeX Warning: Reference `fig:twit_dist' on page 83 undefined on input line 235
+5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2364--2366
+[][]
+ []
+
+[83]
+Overfull \hbox (4.06111pt too wide) in paragraph at lines 2385--2386
+[]\TU/XBYas(0)/m/n/10 توییتر نیز روایت‌هایی مشابه تلگرام را منعکس کرده است. ناش
+ران کلیدی مانند \TU/lmtt/m/n/10 pmoiran \TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 s
+imayazaditv[]
+ []
+
+[84]
+
+LaTeX Warning: Citation `bbc_isfahan_attack' on page 85 undefined on input line
+ 2402.
+
+
+LaTeX Warning: Citation `kayhan_london' on page 85 undefined on input line 2409
+.
+
+
+LaTeX Warning: Citation `bbc_18_dey_report' on page 85 undefined on input line 
+2409.
+
+
+LaTeX Warning: Citation `hrana_arrests' on page 85 undefined on input line 2409
+.
+
+[85]
+
+LaTeX Warning: Citation `bbc_casualties' on page 86 undefined on input line 241
+6.
+
+
+LaTeX Warning: Citation `wikipedia_uprising' on page 86 undefined on input line
+ 2416.
+
+
+Overfull \hbox (29.28004pt too wide) in paragraph at lines 2417--2418
+[][]\TU/XBYas(0)/b/n/10 تحلیل شبکه\TU/XBYas(0)/m/n/10 : این رویداد تنها از طریق
+ ناشران وابسته به یک جناح سیاسی خاص (\TU/lmtt/m/n/10 mojahedin_org\TU/XBYas(0)/
+m/n/10 )[]
+ []
+
+[86]
+
+LaTeX Warning: Citation `bbc_isfahan_attack' on page 87 undefined on input line
+ 2438.
+
+
+LaTeX Warning: Citation `rasanknews_baluch' on page 87 undefined on input line 
+2438.
+
+[87]
+File: images/Q7/instagram_event_timeline.png Graphic file (type bmp)
+<images/Q7/instagram_event_timeline.png>
+File: images/Q7/telegram_event_timeline.png Graphic file (type bmp)
+<images/Q7/telegram_event_timeline.png>
+File: images/Q7/twitter_event_timeline.png Graphic file (type bmp)
+<images/Q7/twitter_event_timeline.png>
+ [88] [89] [90] [91]
+Underfull \hbox (badness 10000) in paragraph at lines 2513--2515
+[][]
+ []
+
+[92
+
+]
+Overfull \hbox (98.2455pt too wide) in paragraph at lines 2535--2536
+[][]\TU/XBYas(0)/m/it/10 تحلیل قصد: \TU/XBYas(0)/m/n/10 با توجه به نقشه‌های حرا
+رتی (برای مثال در \TU/lmtt/m/n/10 twitter_combined_coordination_heatmaps.png\TU
+/XBYas(0)/m/n/10 ،[]
+ []
+
+
+Overfull \hbox (15.667pt too wide) in paragraph at lines 2541--2542
+[][]\TU/XBYas(0)/m/it/10 تحلیل قصد: \TU/XBYas(0)/m/n/10 با مراجعه به جدول \TU/l
+mtt/m/n/10 telegram_fixed_community_attribution.png\TU/XBYas(0)/m/n/10 ،[]
+ []
+
+
+Overfull \hbox (15.85481pt too wide) in paragraph at lines 2547--2548
+[][]\TU/XBYas(0)/m/it/10 تحلیل قصد: \TU/XBYas(0)/m/n/10 نقشه حرارتی \TU/lmtt/m/
+n/10 instagram_combined_coordination_heatmaps.png[]
+ []
+
+
+Overfull \hbox (102.27255pt too wide) in paragraph at lines 2547--2548
+[]\TU/XBYas(0)/m/n/10 مقادیر ۰.‏۰ تا ۰.‏۱ را برای این شاخص نشان می‌دهد، اما جدو
+ل \TU/lmtt/m/n/10 twitter_fixed_community_attribution.png[]
+ []
+
+
+Overfull \hbox (1.4239pt too wide) in paragraph at lines 2548--2549
+[][]\TU/XBYas(0)/m/it/10 شک رسانه‌ای: \TU/XBYas(0)/m/n/10 در زمان دریافت، بررسی
+ همزمان دسترسی کاربران در شهرهای مختلف می‌توانست[]
+ []
+
+[93]
+Overfull \hbox (7.4069pt too wide) in paragraph at lines 2559--2560
+[][]\TU/XBYas(0)/m/it/10 تحلیل قصد: \TU/XBYas(0)/m/n/10 در جدول \TU/lmtt/m/n/10
+ telegram_fixed_community_attribution.png\TU/XBYas(0)/m/n/10 ، جوامع[]
+ []
+
+File: images/Q8/instagram_combined_coordination_heatmaps.png Graphic file (type
+ bmp)
+<images/Q8/instagram_combined_coordination_heatmaps.png>
+File: images/Q8/telegram_combined_coordination_heatmaps.png Graphic file (type 
+bmp)
+<images/Q8/telegram_combined_coordination_heatmaps.png>
+File: images/Q8/twitter_combined_coordination_heatmaps.png Graphic file (type b
+mp)
+<images/Q8/twitter_combined_coordination_heatmaps.png>
+
+LaTeX Warning: Reference `fig:instagram-heat' on page 94 undefined on input lin
+e 2596.
+
+
+LaTeX Warning: Reference `fig:telegram-heat' on page 94 undefined on input line
+ 2597.
+
+
+LaTeX Warning: Reference `tab:telegram-attribution' on page 94 undefined on inp
+ut line 2597.
+
+
+LaTeX Warning: Reference `fig:twitter-heat' on page 94 undefined on input line 
+2598.
+
+[94]
+
+LaTeX Warning: Reference `tab:instagram-attribution' on page 95 undefined on in
+put line 2620.
+
+
+LaTeX Warning: Reference `tab:telegram-attribution' on page 95 undefined on inp
+ut line 2644.
+
+
+LaTeX Warning: Reference `tab:twitter-attribution' on page 95 undefined on inpu
+t line 2668.
+
+[95]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 46 on input line 2722.
+
+[96]
+
+LaTeX Warning: Reference `tab:top-coordinators' on page 97 undefined on input l
+ine 2724.
+
+
+Overfull \hbox (10.42259pt too wide) in paragraph at lines 2727--2728
+[][]\TU/XBYas(0)/b/n/10 الگوی چندپلتفرمی: \TU/XBYas(0)/m/n/10 اکانت‌هایی مانند 
+\TU/lmtt/m/n/10 indypersian\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 iranwire\TU/XB
+Yas(0)/m/n/10 ، \TU/lmtt/m/n/10 tavaana \TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 b
+bcpersian[]
+ []
+
+
+LaTeX Warning: Reference `tab:instagram-attribution' on page 97 undefined on in
+put line 2731.
+
+
+Overfull \hbox (5.29178pt too wide) in paragraph at lines 2733--2734
+[][]\TU/XBYas(0)/m/n/10 در توییتر، جامعه ۱۰ که در چندین محور فعال بود، با اکانت
+‌های \TU/lmtt/m/n/10 indypersian \TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 iranintl
+[]
+ []
+
+
+Overfull \hbox (3.76666pt too wide) in paragraph at lines 2739--2740
+[][]\TU/XBYas(0)/m/n/10 اکانت‌های شخصی مانند \TU/lmtt/m/n/10 ariu44222763 \TU/X
+BYas(0)/m/n/10 (توییتر، جامعه ۱۰) و \TU/lmtt/m/n/10 khosror55831 \TU/XBYas(0)/m
+/n/10 (توییتر،[]
+ []
+
+[97]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2745 ب
+        ا تلفیق تمام داده‌ها و تحلیل‌های فوق، می‌توان نتیجه گرفت که در جریان...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Reference `fig:heatmaps' on page 98 undefined on input line 2748
+.
+
+
+LaTeX Warning: Reference `tab:instagram-attribution' on page 98 undefined on in
+put line 2749.
+
+
+LaTeX Warning: Reference `tab:telegram-attribution' on page 98 undefined on inp
+ut line 2749.
+
+
+LaTeX Warning: Reference `tab:twitter-attribution' on page 98 undefined on inpu
+t line 2749.
+
+
+LaTeX Warning: Reference `tab:top-coordinators' on page 98 undefined on input l
+ine 2750.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2763--2765
+[][]
+ []
+
+[98]
+
+LaTeX Warning: Citation `barabasi1999scaling' on page 99 undefined on input lin
+e 2766.
+
+
+LaTeX Warning: Reference `tab:triads' on page 99 undefined on input line 2772.
+
+[99]
+
+LaTeX Warning: Reference `tab:communities_telegram' on page 100 undefined on in
+put line 2799.
+
+Missing character: There is no � in font [./fonts/XB Yas.ttf]/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[100]
+
+LaTeX Warning: Reference `tab:communities_twitter' on page 101 undefined on inp
+ut line 2823.
+
+[101] [102]
+
+LaTeX Warning: Citation `brin1998pagerank' on page 103 undefined on input line 
+2857.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2864--2868
+[][]
+ []
+
+
+LaTeX Warning: Reference `tab:triads_2' on page 103 undefined on input line 286
+9.
+
+[103]
+
+LaTeX Warning: Reference `tab:communities_telegram_2' on page 104 undefined on 
+input line 2882.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no � in font [./fonts/XB Yas.ttf]/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[104]
+
+LaTeX Warning: Reference `tab:communities_twitter_2' on page 105 undefined on i
+nput line 2906.
+
+[105] [106]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2940 ^^Iت
+           حلیل شبکه‌های اجتماعی تلگرام، اینستاگرام و توییتر در جریان اعتراض...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Citation `chatgpt2024socialnetworkproject' on page 107 undefined
+ on input line 2940.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2945
+[][]
+ []
+
+(main.bbl)
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+[107] (main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 24540 strings out of 402982
+ 546226 string characters out of 5448473
+ 1092950 words of memory out of 5000000
+ 52786 multiletter control sequences out of 15000+600000
+ 634689 words of font info for 100 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 93i,17n,96p,972b,638s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (107 pages).

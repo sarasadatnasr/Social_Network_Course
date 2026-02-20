@@ -97,3 +97,5 @@ sample:
 
 platform,name,username,follower,link,date,date(jalali),text,type,copy,impression,engagement,comment,like,forward,sentiment,avatar
 telegram,Moltafet,moltafchannel,32514,https://telegram.me/moltafchannel/157,2026-01-05 10:35:46,۱۴۰۴-۱۰-۱۵ ۱۴:۰۵:۴۶,رِند  soundcloud.com/mahdyar/sets/rend اگر دریافت البوم از ادرس بالا برای شما در ایران دشوار است می توانید ام پی 3 تمام اهنگ های البوم را در یک فایل از تلگرام زیر دریافت کنید:  t.me/moltafchannel به رسم همیشه، اگر قصد حمایت مالی از این البوم را دارید لطفاً همان مبلغ را بی درنگ خرج نابودی جمهوری اسلامی کنید. ,اصلی,0,156491,7458.0,0,0,7458,منفی,https://telegram.me/moltafchannel
+
+

@@ -1,5 +1,0 @@
-ERROR:root:Error processing ./twitter\twitter-10 to 24 dey.gdf: 'Graph' object has no attribute 'parse'
-ERROR:root:Error processing ./twitter\twitter-16 dey.xlsx: File is not a zip file
-ERROR:root:Error processing ./telegram\telegram-10 to 24 dey.gdf: 'Graph' object has no attribute 'parse'
-ERROR:root:Error processing ./instagram\instagram-10 to 24 dey.gdf: 'Graph' object has no attribute 'parse'
-ERROR:easygdf.easygdf:Input is not a GDF file
