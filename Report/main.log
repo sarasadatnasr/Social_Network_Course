@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.18)  21 FEB 2026 02:45
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.18)  21 FEB 2026 02:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1024,52 +1024,41 @@ ef
 File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
 or XeTeX engine
 ) (main.aux)
-Runaway argument?
-{l 
-! File ended while scanning use of \@writefile.
-<inserted text> 
-                \par 
-l.11 \begin{document}
-                     
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 11.
+Package hyperref Info: Link coloring ON on input line 10.
 File: images/ut-logo.png Graphic file (type bmp)
 <images/ut-logo.png>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
+
 
 (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 
 
 (C:\Users\saran\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1080,7 +1069,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 LaTeX Font Info:    Font shape `TU/XBYas(0)/m/sl' in size <10> not available
 (Font)              Font shape `TU/XBYas(0)/m/it' tried instead on input line 4
-3.
+2.
  [2]
 File: images/Q1/telegram_top5_combined.png Graphic file (type bmp)
 <images/Q1/telegram_top5_combined.png>
@@ -1110,9 +1099,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 182.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 181.
 
-Overfull \hbox (15.83475pt too wide) in paragraph at lines 183--184
+Overfull \hbox (15.83475pt too wide) in paragraph at lines 182--183
 [][]\TU/XBYas(0)/m/n/10 در شبکه \TU/lmtt/m/n/10 iranintltv \TU/XBYas(0)/m/n/10 
 (شکل [][][][][][]۲ب[][][][][][])، مجدداً \TU/lmtt/m/n/10 tyam_news \TU/XBYas(0)
 /m/n/10 و همچنین \TU/lmtt/m/n/10 rahesee \TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 
@@ -1124,14 +1113,14 @@ File: images/Q1/telegram_ego_snidc.png Graphic file (type bmp)
 File: images/Q1/telegram_ego_iran_uk1.png Graphic file (type bmp)
 <images/Q1/telegram_ego_iran_uk1.png>
 [6]
-Overfull \hbox (32.9087pt too wide) in paragraph at lines 208--209
+Overfull \hbox (32.9087pt too wide) in paragraph at lines 207--208
 []\TU/XBYas(0)/m/n/10 حساب‌های سلطنتی‌طلب را نمایش می‌دهد. حساب‌هایی مانند \TU/
 lmtt/m/n/10 dssociety1\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 sdpadshahiparlemani
 []
  []
 
 
-Overfull \hbox (128.83388pt too wide) in paragraph at lines 208--209
+Overfull \hbox (128.83388pt too wide) in paragraph at lines 207--208
 []\TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 great_cyrus \TU/XBYas(0)/m/n/10 همگی در
  یک جهت‌گیری سیاسی مشترک هستند. جالب توجه، حضور \TU/lmtt/m/n/10 savakshahrbanik
 eshvarshahanshahi[]
@@ -1144,7 +1133,7 @@ File: images/Q1/telegram_ego_manirani_am.png Graphic file (type bmp)
 File: images/Q1/telegram_ego_poshtpardeha.png Graphic file (type bmp)
 <images/Q1/telegram_ego_poshtpardeha.png>
 [7]
-Overfull \hbox (11.18555pt too wide) in paragraph at lines 249--249
+Overfull \hbox (11.18555pt too wide) in paragraph at lines 248--248
 [][]\TU/XBYas(0)/b/n/12 خوشه حساب‌های پرنفوذ با گراف خالی (Influencers with Emp
 ty Graphs) []
  []
@@ -1164,33 +1153,33 @@ File: images/Q1/telegram_ego_fo_rk.png Graphic file (type bmp)
 File: images/Q1/telegram_ego_khabarfouri.png Graphic file (type bmp)
 <images/Q1/telegram_ego_khabarfouri.png>
  [9]
-Overfull \hbox (30.62413pt too wide) in paragraph at lines 301--302
+Overfull \hbox (30.62413pt too wide) in paragraph at lines 300--301
 [][]\TU/lmtt/b/n/10 dorrtv \TU/XBYas(0)/b/n/10 (شکل [][][][][][]۶آ[][][][][][])
 : \TU/XBYas(0)/m/n/10 شبکه این حساب شامل \TU/lmtt/m/n/10 poshtpardeha \TU/XBYas
 (0)/m/n/10 (که قبلاً دیدیم) و \TU/lmtt/m/n/10 iranrapasmigirim[]
  []
 
 
-Overfull \hbox (89.33856pt too wide) in alignment at lines 309--327
+Overfull \hbox (89.33856pt too wide) in alignment at lines 308--326
  [] [] [] 
  []
 
 [10]
-Overfull \hbox (6.74pt too wide) in paragraph at lines 333--334
+Overfull \hbox (6.74pt too wide) in paragraph at lines 332--333
 [][]\TU/XBYas(0)/b/n/10 لایه اول - رسانه‌های مادر (Mother Ships): \TU/XBYas(0)/
 m/n/10 حساب‌هایی مانند \TU/lmtt/m/n/10 bbcpersian \TU/XBYas(0)/m/n/10 و \TU/lmt
 t/m/n/10 iranintltv[]
  []
 
 
-Overfull \hbox (27.19441pt too wide) in paragraph at lines 334--335
+Overfull \hbox (27.19441pt too wide) in paragraph at lines 333--334
 [][]\TU/XBYas(0)/b/n/10 لایه دوم - شبکه‌های تقویت‌کننده (Amplifiers): \TU/XBYas
 (0)/m/n/10 حساب‌هایی مانند \TU/lmtt/m/n/10 poshtpardeha\TU/XBYas(0)/m/n/10 ، \T
 U/lmtt/m/n/10 iranazadie[]
  []
 
 
-Overfull \hbox (22.87477pt too wide) in paragraph at lines 336--337
+Overfull \hbox (22.87477pt too wide) in paragraph at lines 335--336
 [][]\TU/XBYas(0)/b/n/10 لایه چهارم - عملیات‌های پنهان (Covert Ops): \TU/XBYas(0
 )/m/n/10 حساب‌هایی با گراف خالی (\TU/lmtt/m/n/10 choonkehghashange[]
  []
@@ -1209,7 +1198,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (7.13193pt too wide) in paragraph at lines 452--463
+Overfull \hbox (7.13193pt too wide) in paragraph at lines 451--462
  [][][][] 
  []
 
@@ -1222,7 +1211,7 @@ File: images/Q1/instagram_ego_bbcpersian.png Graphic file (type bmp)
 File: images/Q1/instagram_ego_iranwire.png Graphic file (type bmp)
 <images/Q1/instagram_ego_iranwire.png>
  [14]
-Overfull \hbox (19.51248pt too wide) in paragraph at lines 492--493
+Overfull \hbox (19.51248pt too wide) in paragraph at lines 491--492
 [][]\TU/XBYas(0)/m/n/10 در شبکه \TU/lmtt/m/n/10 bbcpersian \TU/XBYas(0)/m/n/10 
 (شکل [][][][][][]۸آ[][][][][][])، حساب‌های \TU/lmtt/b/n/10 indypersian \TU/XBYa
 s(0)/m/n/10 و \TU/lmtt/b/n/10 iranwire \TU/XBYas(0)/m/n/10 به عنوان بازنشرکنندگ
@@ -1237,7 +1226,7 @@ File: images/Q1/instagram_ego_aliiiiiiiikarimi8.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [15]
-Overfull \hbox (10.35495pt too wide) in paragraph at lines 520--521
+Overfull \hbox (10.35495pt too wide) in paragraph at lines 519--520
 []\TU/XBYas(0)/m/n/10 شناخته‌شده‌ای هستند، نشان می‌دهد که علی کریمی یک \TU/XBYa
 s(0)/b/n/10 حلقه نخبگانی (Elite Circle) \TU/XBYas(0)/m/n/10 از بازنشرکنندگان[]
  []
@@ -1248,7 +1237,7 @@ File: images/Q1/instagram_ego_reza.davoudi.pahlavism.png Graphic file (type bmp
 )
 <images/Q1/instagram_ego_reza.davoudi.pahlavism.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--536
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
 [][]\TU/XBYas(0)/m/n/9 (ب) |شبکه ایگوی[]
  []
 
@@ -1256,20 +1245,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 536--536
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (9.00606pt too wide) in paragraph at lines 544--545
+Overfull \hbox (9.00606pt too wide) in paragraph at lines 543--544
 []\TU/XBYas(0)/b/n/10 (Star Network) \TU/XBYas(0)/m/n/10 گسترده است. حضور حساب‌
 هایی با نام‌های نمادین مانند \TU/lmtt/m/n/10 iranian.monarchy[]
  []
 
 
-Overfull \hbox (32.83516pt too wide) in paragraph at lines 544--545
+Overfull \hbox (32.83516pt too wide) in paragraph at lines 543--544
 []\TU/XBYas(0)/m/n/10 نشان‌دهنده وجود یک \TU/XBYas(0)/b/n/10 جامعه هواداری سازم
 ان‌یافته \TU/XBYas(0)/m/n/10 است. نکته مهم، حضور \TU/lmtt/m/n/10 etehad_etehad_
 mardomei[]
  []
 
 
-Overfull \hbox (10.41383pt too wide) in paragraph at lines 545--546
+Overfull \hbox (10.41383pt too wide) in paragraph at lines 544--545
 [][]\TU/XBYas(0)/b/n/10 شبکه \TU/lmtt/b/n/10 reza.davoudi.pahlavism \TU/XBYas(0
 )/b/n/10 (شکل [][][][][][]۱۰ب[][][][][][]): \TU/XBYas(0)/m/n/10 این شبکه که متع
 لق به یک فعال سلطنتی‌طلب[]
@@ -1281,7 +1270,7 @@ File: images/Q1/instagram_ego_avatoday1.png Graphic file (type bmp)
 File: images/Q1/instagram_ego_indypersian.png Graphic file (type bmp)
 <images/Q1/instagram_ego_indypersian.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 [][]\TU/XBYas(0)/m/n/9 (ب) |\TU/lmtt/m/n/9 indypersian \TU/XBYas(0)/m/n/9 (گراف
 []
  []
@@ -1292,32 +1281,32 @@ File: images/Q1/instagram_ego_iranintltv.png Graphic file (type bmp)
 File: images/Q1/instagram_ego_michaeltanidn.png Graphic file (type bmp)
 <images/Q1/instagram_ego_michaeltanidn.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 601--602
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
 [][]|\TU/XBYas(0)/m/n/10 شبکه‌های ستاره‌ای گسترده[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 602--602
+Underfull \hbox (badness 10000) in paragraph at lines 601--601
+[][]|\TU/XBYas(0)/m/n/10 گراف‌های خالی با درجه ورودی بالا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--602
 [][]|\TU/XBYas(0)/m/n/10 گراف‌های خالی با درجه ورودی بالا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 602--603
-[][]|\TU/XBYas(0)/m/n/10 گراف‌های خالی با درجه ورودی بالا[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 603--604
 [][]|\TU/lmtt/m/n/10 etehad_etehad_mardomei \TU/XBYas(0)/m/n/10 (بین[]
  []
 
 
-Overfull \hbox (80.39085pt too wide) in alignment at lines 593--605
+Overfull \hbox (80.39085pt too wide) in alignment at lines 592--604
  [] [] [] 
  []
 
 [18] [19] [20]
-Overfull \hbox (0.49843pt too wide) in paragraph at lines 656--657
+Overfull \hbox (0.49843pt too wide) in paragraph at lines 655--656
 [][]\TU/XBYas(0)/b/n/10 وجود حلقه‌های تقویت مصنوعی (Astroturfing): \TU/XBYas(0)
 /m/n/10 حساب‌هایی نظیر \TU/lmtt/m/n/10 choonkehghashange[]
  []
@@ -1339,19 +1328,19 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: Reference `fig:tw_iranintl' on page 21 undefined on input line 7
-59.
+58.
 
 [21] [22]
 
 LaTeX Warning: Reference `fig:tw_iranintlbrk' on page 23 undefined on input lin
-e 760.
+e 759.
 
 File: images/Q1/twitter_ego_indypersian.png Graphic file (type bmp)
 <images/Q1/twitter_ego_indypersian.png>
 File: images/Q1/twitter_ego_irannewsagency0.png Graphic file (type bmp)
 <images/Q1/twitter_ego_irannewsagency0.png>
 
-Overfull \hbox (13.7045pt too wide) in paragraph at lines 781--782
+Overfull \hbox (13.7045pt too wide) in paragraph at lines 780--781
 []\TU/XBYas(0)/m/n/10 مانند \TU/lmtt/m/n/10 javid_iran \TU/XBYas(0)/m/n/10 (جاو
 ید ایران، سلطنتی‌طلب) و \TU/lmtt/m/n/10 ghasedak189ardavan_afshar \TU/XBYas(0)/
 m/n/10 (قاصدک،[]
@@ -1371,7 +1360,7 @@ File: images/Q1/twitter_ego_alferedio2000.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (17.00854pt too wide) in paragraph at lines 828--829
+Overfull \hbox (17.00854pt too wide) in paragraph at lines 827--828
 []\TU/lmtt/m/n/10 aryobarzanmohe2 \TU/XBYas(0)/m/n/10 (آریوبرزن) و \TU/lmtt/m/n
 /10 starchobin \TU/XBYas(0)/m/n/10 (ستاره چوبین) نشان‌دهنده \TU/XBYas(0)/b/n/10
  گرایش ناسیونالیستی-[]
@@ -1383,14 +1372,14 @@ File: images/Q1/twitter_ego_hamidmirpak.png Graphic file (type bmp)
 File: images/Q1/twitter_ego_sdqjaan.png Graphic file (type bmp)
 <images/Q1/twitter_ego_sdqjaan.png>
  [25]
-Overfull \hbox (30.57799pt too wide) in paragraph at lines 853--854
+Overfull \hbox (30.57799pt too wide) in paragraph at lines 852--853
 []\TU/XBYas(0)/m/n/10 دوم Audience)، شبکه‌ای کاملاً پاکستانی دارد. اسامی مانند 
 \TU/lmtt/m/n/10 samiuullah5783\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 mubasha3874
 9196[]
  []
 
 
-Overfull \hbox (15.08711pt too wide) in paragraph at lines 853--854
+Overfull \hbox (15.08711pt too wide) in paragraph at lines 852--853
 []\TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 junaidzaidi17 \TU/XBYas(0)/m/n/10 همگی 
 اردو‌زبان هستند. این نشان‌دهنده \TU/XBYas(0)/b/n/10 تلاشی سازمان‌یافته برای بین
 ‌المللی‌سازی[]
@@ -1406,7 +1395,7 @@ File: images/Q1/twitter_ego_sheed2610.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (6.59135pt too wide) in paragraph at lines 888--889
+Overfull \hbox (6.59135pt too wide) in paragraph at lines 887--888
 []\TU/XBYas(0)/m/n/10 یک حساب مرموز است. حضور \TU/lmtt/m/n/10 dr_y_yazdi \TU/XB
 Yas(0)/m/n/10 (دکتر یزدی، روحانی منتقد) و \TU/lmtt/m/n/10 ali_enayatzadeh[]
  []
@@ -1418,95 +1407,91 @@ File: images/Q1/twitter_ego_enghelabezanane.png Graphic file (type bmp)
 File: images/Q1/twitter_ego_ptiofficial.png Graphic file (type bmp)
 <images/Q1/twitter_ego_ptiofficial.png>
 
-
-LaTeX Warning: Reference `fig:tw_pti' on page 28 undefined on input line 910.
-
-
-Overfull \hbox (17.3824pt too wide) in paragraph at lines 910--912
+Overfull \hbox (17.3824pt too wide) in paragraph at lines 909--911
 []\TU/XBYas(0)/m/n/10 Tehreek-e-Insaf” (حزب عمران خان) است. حضور این حساب در دا
 ده‌های ما نشان می‌دهد که \TU/XBYas(0)/b/n/10 سیاست‌پردازان[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 929--930
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
 [][]|\TU/XBYas(0)/b/n/10 پل سلطنتی-رسانه‌ای: \TU/XBYas(0)/m/n/10 حلقه اتصال خوش
 ه[]
  []
 
 
-Overfull \hbox (117.7913pt too wide) in alignment at lines 915--935
+Overfull \hbox (117.7913pt too wide) in alignment at lines 914--934
  [] [] [] 
  []
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 946--947
+Underfull \hbox (badness 10000) in paragraph at lines 945--946
 [][]|\TU/XBYas(0)/m/n/10 حساب‌های ناشناس و[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 947--947
+Underfull \hbox (badness 10000) in paragraph at lines 946--946
 [][]|\TU/XBYas(0)/m/n/10 کانال‌های پل (مثل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 948--949
+Underfull \hbox (badness 10000) in paragraph at lines 947--948
 [][]|\TU/XBYas(0)/m/n/10 بسیار بالا (پاکستان،[]
  []
 
 
-Underfull \hbox (badness 4582) in paragraph at lines 950--950
+Underfull \hbox (badness 4582) in paragraph at lines 949--949
 [][]|\TU/XBYas(0)/m/n/10 متوسط (سلبریتی‌ها بی‌طرف[]
  []
 
 
-Overfull \hbox (96.58304pt too wide) in alignment at lines 940--952
+Overfull \hbox (96.58304pt too wide) in alignment at lines 939--951
  [] [] [] [] 
  []
 
 
-Overfull \hbox (1.49pt too wide) in paragraph at lines 958--959
+Overfull \hbox (1.49pt too wide) in paragraph at lines 957--958
 [][]\TU/XBYas(0)/b/n/10 لایه اول - رسانه‌های مادر (Mother Ships): \TU/XBYas(0)/
 m/n/10 حساب‌هایی مانند \TU/lmtt/m/n/10 iranintl \TU/XBYas(0)/m/n/10 و \TU/lmtt/
 m/n/10 indypersian[]
  []
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 973--975
+Underfull \hbox (badness 10000) in paragraph at lines 972--974
 [][]
  []
 
 [30] [31]
-Overfull \hbox (45.73872pt too wide) in alignment at lines 1006--1013
+Overfull \hbox (45.73872pt too wide) in alignment at lines 1005--1012
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (45.73872pt too wide) in alignment at lines 1013--1020
+Overfull \hbox (45.73872pt too wide) in alignment at lines 1012--1019
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (17.26283pt too wide) in paragraph at lines 1023--1023
+Overfull \hbox (17.26283pt too wide) in paragraph at lines 1022--1022
 [][]|\TU/XBYas(0)/m/n/9 houshang.kaivani.hafshejani| []
  []
 
 
-Overfull \hbox (1.42494pt too wide) in paragraph at lines 1026--1026
+Overfull \hbox (1.42494pt too wide) in paragraph at lines 1025--1025
 [][]|\TU/XBYas(0)/m/n/9 avatodaypersian.official| []
  []
 
 
-Overfull \hbox (5.09877pt too wide) in paragraph at lines 1027--1027
+Overfull \hbox (5.09877pt too wide) in paragraph at lines 1026--1026
 [][]|\TU/XBYas(0)/m/n/9 official_rezamohammadi| []
  []
 
 
-Overfull \hbox (7.09828pt too wide) in paragraph at lines 1029--1030
+Overfull \hbox (7.09828pt too wide) in paragraph at lines 1028--1029
 [][]|\TU/XBYas(0)/m/n/9 etehad_etehad_mardomei| []
  []
 
 
-Overfull \hbox (45.73872pt too wide) in alignment at lines 1020--1034
+Overfull \hbox (45.73872pt too wide) in alignment at lines 1019--1033
  [] [] [] [] [] 
  []
 
@@ -1516,19 +1501,11 @@ File: images/Q2/instagram_top_nodes.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:ig_top10' on page 32 undefined on input line 1046
-.
-
-
-LaTeX Warning: Reference `fig:ig_pr_wdeg' on page 32 undefined on input line 10
-47.
-
-
-Overfull \hbox (16.9308pt too wide) in paragraph at lines 1046--1050
-[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [].[] \TU/XBYas(0)/m/n/10 در Top-‏۱۰ PageRan
-k، []\TU/lmroman10-regular(0)/m/n/10 avatoday1[] \TU/XBYas(0)/m/n/10 و []\TU/lm
-roman10-regular(0)/m/n/10 iranintltv[] \TU/XBYas(0)/m/n/10 در صدرند و []\TU/lmr
-oman10-regular(0)/m/n/10 officialrezapahlavi[][]
+Overfull \hbox (17.60463pt too wide) in paragraph at lines 1045--1049
+[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [][][][][][]۲۱[][][][][][].[] \TU/XBYas(0)/m
+/n/10 در Top-‏۱۰ PageRank، []\TU/lmroman10-regular(0)/m/n/10 avatoday1[] \TU/XB
+Yas(0)/m/n/10 و []\TU/lmroman10-regular(0)/m/n/10 iranintltv[] \TU/XBYas(0)/m/n
+/10 در صدرند و []\TU/lmroman10-regular(0)/m/n/10 officialrezapahlavi[][]
  []
 
 
@@ -1539,10 +1516,6 @@ File: images/Q2/instagram_scatter_hub_vs_authority.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:ig_hits' on page 32 undefined on input line 1099.
-
-
 [32]
 File: images/Q2/instagram_scatter_pagerank_vs_windeg.png Graphic file (type bmp
 )
@@ -1550,10 +1523,6 @@ File: images/Q2/instagram_scatter_pagerank_vs_windeg.png Graphic file (type bmp
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `fig:ig_pr_wdeg' on page 33 undefined on input line 11
-12.
 
 [33] [34] [35]
 File: images/Q2/instagram_backbone_elite.png Graphic file (type bmp)
@@ -1564,49 +1533,44 @@ File: images/Q2/instagram_Correlation_heatmap.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:insta_corr' on page 36 undefined on input line 11
-61.
-
 [36]
-
-LaTeX Warning: Reference `fig:insta_backbone' on page 37 undefined on input lin
-e 1162.
-
 Missing character: There is no 主 in font [./fonts/XB Yas.ttf]/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no 干 in font [./fonts/XB Yas.ttf]/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 
-Overfull \hbox (0.88718pt too wide) in paragraph at lines 1164--1165
+Overfull \hbox (0.88718pt too wide) in paragraph at lines 1163--1164
 []\TU/XBYas(0)/m/n/10 خارج (ایران اینترنشنال، آوا تودی)، چهره‌های نمادین (رضا پ
 هلوی) و کنشگران (یاسمن خداجو، شمیرانی‌سعید)،[]
  []
 
 
-Overfull \hbox (51.82332pt too wide) in alignment at lines 1181--1193
+Overfull \hbox (51.82332pt too wide) in alignment at lines 1169--1174
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (51.82332pt too wide) in alignment at lines 1174--1180
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (51.82332pt too wide) in alignment at lines 1180--1192
  [] [] [] [] [] 
  []
 
 [37]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 25 on input line 1193.
-
 File: images/Q2/telegram_top_nodes.png Graphic file (type bmp)
 <images/Q2/telegram_top_nodes.png>
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:tg_top10' on page 38 undefined on input line 1203
-.
-
-
-Overfull \hbox (16.81639pt too wide) in paragraph at lines 1203--1207
-[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [].[] \TU/XBYas(0)/m/n/10 در Top-‏۱۰ PageRan
-k و Top-‏۱۰ Weighted In-Degree، []\TU/lmroman10-regular(0)/m/n/10 choonkehghash
-ange[][]
+Overfull \hbox (17.49022pt too wide) in paragraph at lines 1202--1206
+[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [][][][][][]۲۵[][][][][][].[] \TU/XBYas(0)/m
+/n/10 در Top-‏۱۰ PageRank و Top-‏۱۰ Weighted In-Degree، []\TU/lmroman10-regular
+(0)/m/n/10 choonkehghashange[][]
  []
 
 
@@ -1618,22 +1582,14 @@ File: images/Q2/telegram_scatter_hub_vs_authority.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:tg_hits' on page 39 undefined on input line 1269.
-
-
 File: images/Q2/telegram_scatter_pagerank_vs_windeg.png Graphic file (type bmp)
 
 <images/Q2/telegram_scatter_pagerank_vs_windeg.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:tg_pr_wdeg' on page 39 undefined on input line 12
-81.
-
 [39] [40] [41]
-Overfull \hbox (0.36694pt too wide) in paragraph at lines 1299--1300
+Overfull \hbox (0.36694pt too wide) in paragraph at lines 1298--1299
 []\TU/XBYas(0)/m/n/10 در سوی دیگر، کانال‌هایی مانند \TU/lmtt/m/n/10 kianmeli1\T
 U/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 javanmardi77\TU/XBYas(0)/m/n/10 ، \TU/lmtt/
 m/n/10 eterazebazar\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 sepehrazadi\TU/XBYas(0
@@ -1641,14 +1597,14 @@ m/n/10 eterazebazar\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 sepehrazadi\TU/XBYas(0
  []
 
 
-Overfull \hbox (13.11699pt too wide) in paragraph at lines 1302--1303
+Overfull \hbox (13.11699pt too wide) in paragraph at lines 1301--1302
 []\TU/XBYas(0)/m/n/10 لیست \TU/XBYas(0)/m/it/10 Hub \TU/XBYas(0)/m/n/10 در تلگر
 ام کاملاً توسط کانال‌های اعتراضی و ناشناس پر شده است: \TU/lmtt/m/n/10 piroozi14
 01\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 kabar2025\TU/XBYas(0)/m/n/10 ،[]
  []
 
 
-Overfull \hbox (2.47478pt too wide) in paragraph at lines 1302--1303
+Overfull \hbox (2.47478pt too wide) in paragraph at lines 1301--1302
 []\TU/lmtt/m/n/10 protest_shora\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 ir_protest
 s\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 poshtpardeha\TU/XBYas(0)/m/n/10 ، \TU/lm
 tt/m/n/10 streetnews_online \TU/XBYas(0)/m/n/10 و ... این کانال‌ها[]
@@ -1660,22 +1616,26 @@ File: images/Q2/telegram_backbone_elite.png Graphic file (type bmp)
 File: images/Q2/telegram_Correlation_heatmap.png Graphic file (type bmp)
 <images/Q2/telegram_Correlation_heatmap.png>
 
-
-LaTeX Warning: Reference `fig:tel_corr' on page 43 undefined on input line 1324
-.
-
-
-LaTeX Warning: Reference `fig:tel_backbone' on page 43 undefined on input line 
-1325.
+Overfull \hbox (8.52223pt too wide) in paragraph at lines 1323--1324
+[][]\TU/XBYas(0)/b/n/10 نمودار همبستگی (شکل [][][][][][]۲۸ب[][][][][][])\TU/XBY
+as(0)/m/n/10 : همبستگی بالای بین \TU/XBYas(0)/m/it/10 PageRank \TU/XBYas(0)/m/n
+/10 و \TU/XBYas(0)/m/it/10 In-Degree \TU/XBYas(0)/m/n/10 (۰.‏۷۶) نشان‌دهنده[]
+ []
 
 [43] [44]
-Overfull \hbox (6.3155pt too wide) in alignment at lines 1352--1364
+Overfull \hbox (6.3155pt too wide) in alignment at lines 1340--1345
  [] [] [] [] [] 
  []
 
 
-Package longtable Warning: Column widths have changed
-(longtable)                in table 27 on input line 1364.
+Overfull \hbox (6.3155pt too wide) in alignment at lines 1345--1351
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.3155pt too wide) in alignment at lines 1351--1363
+ [] [] [] [] [] 
+ []
 
 File: images/Q2/twitter_top_nodes.png Graphic file (type bmp)
 <images/Q2/twitter_top_nodes.png>
@@ -1683,144 +1643,98 @@ File: images/Q2/twitter_top_nodes.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:tw_top10' on page 45 undefined on input line 1376
-.
-
-
-Overfull \hbox (3.8334pt too wide) in paragraph at lines 1376--1380
-[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [].[] \TU/XBYas(0)/m/n/10 در Top-‏۱۰ PageRan
-k، []\TU/lmroman10-regular(0)/m/n/10 iranintl[] \TU/XBYas(0)/m/n/10 اول است (لن
-گر جریان) و سپس []\TU/lmroman10-regular(0)/m/n/10 tanhayektiger[]\TU/XBYas(0)/m
-/n/10 .[]
+Overfull \hbox (4.50723pt too wide) in paragraph at lines 1375--1379
+[] []\TU/XBYas(0)/b/n/10 تحلیل شکل [][][][][][]۲۹[][][][][][].[] \TU/XBYas(0)/m
+/n/10 در Top-‏۱۰ PageRank، []\TU/lmroman10-regular(0)/m/n/10 iranintl[] \TU/XBY
+as(0)/m/n/10 اول است (لنگر جریان) و سپس []\TU/lmroman10-regular(0)/m/n/10 tanha
+yektiger[]\TU/XBYas(0)/m/n/10 .[]
  []
 
 [45]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[46]
-
-LaTeX Warning: Citation `newman2010networks' on page 47 undefined on input line
- 1436.
-
-[47]
+[46] [47]
 File: images/Q2/twitter_scatter_hub_vs_authority.png Graphic file (type bmp)
 <images/Q2/twitter_scatter_hub_vs_authority.png>
-
-
-LaTeX Warning: Reference `fig:tw_hits' on page 48 undefined on input line 1449.
-
-
 File: images/Q2/twitter_scatter_pagerank_vs_windeg.png Graphic file (type bmp)
 <images/Q2/twitter_scatter_pagerank_vs_windeg.png>
 
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `fig:tw_pr_wdeg' on page 48 undefined on input line 14
-62.
-
-
-LaTeX Warning: Reference `fig:tw_hits' on page 48 undefined on input line 1464.
-
 
 [48] [49]
 File: images/Q2/twitter_backbone_elite.png Graphic file (type bmp)
 <images/Q2/twitter_backbone_elite.png>
 File: images/Q2/twitter_Correlation_heatmap.png Graphic file (type bmp)
 <images/Q2/twitter_Correlation_heatmap.png>
-
-
-LaTeX Warning: Reference `fig:twit_corr' on page 50 undefined on input line 149
-9.
-
-
-LaTeX Warning: Reference `fig:twit_backbone' on page 50 undefined on input line
- 1500.
-
-
-LaTeX Warning: Citation `newman2003structure' on page 50 undefined on input lin
-e 1504.
-
-[50] [51]
-Underfull \hbox (badness 1097) in paragraph at lines 1516--1516
+ [50] [51]
+Underfull \hbox (badness 1097) in paragraph at lines 1515--1515
 [][]|\TU/XBYas(0)/m/n/10 سه‌قطبی (غیرسیاسی، رسمی،[]
  []
 
 
-Underfull \hbox (badness 8075) in paragraph at lines 1518--1518
+Underfull \hbox (badness 8075) in paragraph at lines 1517--1517
 [][]|\TU/XBYas(0)/m/n/10 رسانه‌های اپوزیسیون (ایران[]
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 1518--1518
+Underfull \hbox (badness 5231) in paragraph at lines 1517--1517
 [][]|\TU/XBYas(0)/m/n/10 کانال‌های اعتراضی (kian-[]
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 1518--1518
+Underfull \hbox (badness 1810) in paragraph at lines 1517--1517
 []\TU/XBYas(0)/m/n/10 meli۱) و کانال غیرسیاسی[]
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 1518--1519
+Underfull \hbox (badness 7704) in paragraph at lines 1517--1518
 [][]|\TU/XBYas(0)/m/n/10 ترکیب رسانه‌های واقعی و[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1520--1520
+Underfull \hbox (badness 10000) in paragraph at lines 1519--1519
 [][]|\TU/XBYas(0)/b/n/10 PageRank/In-[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1520--1520
+Underfull \hbox (badness 10000) in paragraph at lines 1519--1519
 [][]|\TU/XBYas(0)/m/n/10 رسانه‌های رسمی و کانال[]
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 1521--1521
+Underfull \hbox (badness 2735) in paragraph at lines 1520--1520
 [][]|\TU/XBYas(0)/m/n/10 همبستگی بالای Authority[]
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 1521--1521
+Underfull \hbox (badness 6775) in paragraph at lines 1520--1520
 []\TU/XBYas(0)/m/n/10 با In-Degree اما نه با[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1522--1522
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1521
 [][]|\TU/XBYas(0)/m/n/10 محدود (حساب عددی[]
  []
 
 
-Overfull \hbox (75.11218pt too wide) in paragraph at lines 1513--1524
+Overfull \hbox (75.11218pt too wide) in paragraph at lines 1512--1523
  [][][][] 
  []
 
 [52] [53]
-Underfull \hbox (badness 10000) in paragraph at lines 1566--1568
+Underfull \hbox (badness 10000) in paragraph at lines 1565--1567
 [][]
  []
 
 [54]
-
-LaTeX Warning: Reference `fig:insta_sent' on page 55 undefined on input line 15
-80.
-
 File: images/Q3/instagram_Sentiment_Innermost_Core.png Graphic file (type bmp)
 <images/Q3/instagram_Sentiment_Innermost_Core.png>
+ [55] [56]
 
-LaTeX Warning: Reference `tab:insta_top' on page 55 undefined on input line 159
-0.
-
-[55] [56]
-
-LaTeX Warning: Reference `fig:insta_wc' on page 57 undefined on input line 1624
+LaTeX Warning: Reference `fig:insta_wc' on page 57 undefined on input line 1623
 .
-
-
-LaTeX Warning: Citation `barabasi2016networkscience' on page 57 undefined on in
-put line 1626.
 
 File: images/Q3/instagram_WordCloud_indypersian.png Graphic file (type bmp)
 <images/Q3/instagram_WordCloud_indypersian.png>
@@ -1828,18 +1742,10 @@ File: images/Q3/instagram_WordCloud_iranintltv.png Graphic file (type bmp)
 <images/Q3/instagram_WordCloud_iranintltv.png>
 File: images/Q3/instagram_WordCloud_manotoofficial.png Graphic file (type bmp)
 <images/Q3/instagram_WordCloud_manotoofficial.png>
-
-LaTeX Warning: Reference `fig:tel_sent' on page 57 undefined on input line 1653
-.
-
 File: images/Q3/telegram_Sentiment_Innermost_Core.png Graphic file (type bmp)
 <images/Q3/telegram_Sentiment_Innermost_Core.png>
-
-LaTeX Warning: Reference `tab:tel_top' on page 57 undefined on input line 1663.
-
-
 [57]
-Overfull \hbox (9.8092pt too wide) in paragraph at lines 1692--1693
+Overfull \hbox (9.8092pt too wide) in paragraph at lines 1691--1692
 [][]\TU/XBYas(0)/b/n/10 کانال‌های شخصیتی و کنشگران کلیدی: []\TU/lmroman10-regul
 ar(0)/m/n/10 rodast_omiddana[] \TU/XBYas(0)/m/n/10 (رودست امید دنا) و []\TU/lmr
 oman10-regular(0)/m/n/10 sepehrazadi[][]
@@ -1847,7 +1753,7 @@ oman10-regular(0)/m/n/10 sepehrazadi[][]
 
 
 LaTeX Warning: Reference `fig:tel_wc_ro' on page 58 undefined on input line 169
-6.
+5.
 
 [58]
 File: images/Q3/telegram_WordCloud_poshtpardeha.png Graphic file (type bmp)
@@ -1856,21 +1762,10 @@ File: images/Q3/telegram_WordCloud_rodast_omiddana.png Graphic file (type bmp)
 <images/Q3/telegram_WordCloud_rodast_omiddana.png>
 File: images/Q3/telegram_WordCloud_sepehrazadi.png Graphic file (type bmp)
 <images/Q3/telegram_WordCloud_sepehrazadi.png>
-
-
-LaTeX Warning: Reference `fig:tel_wc' on page 59 undefined on input line 1720.
-
-
-LaTeX Warning: Reference `fig:tel_wc' on page 59 undefined on input line 1725.
-
 File: images/Q3/twitter_Sentiment_Innermost_Core.png Graphic file (type bmp)
 <images/Q3/twitter_Sentiment_Innermost_Core.png>
-
-LaTeX Warning: Reference `tab:twit_top' on page 59 undefined on input line 1735
-.
-
-[59]
-Overfull \hbox (3.90092pt too wide) in paragraph at lines 1764--1765
+ [59]
+Overfull \hbox (3.90092pt too wide) in paragraph at lines 1763--1764
 [][]\TU/lmroman10-regular(0)/m/n/10 aryammehr_2[] \TU/XBYas(0)/m/n/10 و []\TU/l
 mroman10-regular(0)/m/n/10 sonofthebeach22[] \TU/XBYas(0)/m/n/10 نشان‌دهنده نقش
  پررنگ روزنامه‌نگاران مستقل، تحلیلگران[]
@@ -1882,694 +1777,14 @@ File: images/Q3/twitter_WordCloud_iranintlbrk.png Graphic file (type bmp)
 <images/Q3/twitter_WordCloud_iranintlbrk.png>
 File: images/Q3/twitter_WordCloud_irannewsagency0.png Graphic file (type bmp)
 <images/Q3/twitter_WordCloud_irannewsagency0.png>
-
-LaTeX Warning: Reference `fig:twit_wc' on page 60 undefined on input line 1792.
-
-
 [60] [61]
-
-LaTeX Warning: Reference `fig:instagram_community' on page 62 undefined on inpu
-t line 1813.
-
 File: images/Q4/instagram_Community_Separated_Map.png Graphic file (type bmp)
 <images/Q4/instagram_Community_Separated_Map.png>
 
-LaTeX Warning: Reference `fig:telegram_community' on page 62 undefined on input
- line 1841.
-
-
-Overfull \hbox (0.22093pt too wide) in paragraph at lines 1841--1842
+Overfull \hbox (0.22093pt too wide) in paragraph at lines 1840--1841
 []\TU/XBYas(0)/m/n/10 تلگرام با مقدار مِدولاریتی ۰.‏۶۲۴۲ بالاترین میزان تفکیک‌پ
 ذیری اجتماعات را نشان می‌دهد. ساختار کانال‌محور[]
  []
 
 [62]
-File: images/Q4/telegram_Community_Separated_Map.png Graphic file (type bmp)
-<images/Q4/telegram_Community_Separated_Map.png>
-
-
-LaTeX Warning: Reference `fig:twitter_communiy' on page 63 undefined on input l
-ine 1868.
-
-File: images/Q4/twitter_Community_Separated_Map.png Graphic file (type bmp)
-<images/Q4/twitter_Community_Separated_Map.png>
-[63] [64]
-Overfull \hbox (14.1682pt too wide) in paragraph at lines 1904--1907
-[]\TU/XBYas(0)/m/n/10 در این بخش، به تحلیل عمیق نتایج حاصل از اجرای سه الگوریتم
- کشف انجمن []\TU/lmroman10-regular(0)/m/n/10 Louvain[]\TU/XBYas(0)/m/n/10 ، []\
-TU/lmroman10-regular(0)/m/n/10 Label Propagation[][]
- []
-
-
-LaTeX Warning: Reference `fig:instagram_decay' on page 65 undefined on input li
-ne 1909.
-
-
-LaTeX Warning: Reference `fig:telegram_decay' on page 65 undefined on input lin
-e 1909.
-
-
-LaTeX Warning: Reference `fig:twitter_decay' on page 65 undefined on input line
- 1909.
-
-[65]
-File: images/Q5/instagram_community_size_decay.png Graphic file (type bmp)
-<images/Q5/instagram_community_size_decay.png>
-
-
-LaTeX Warning: Reference `fig:instagram_decay' on page 66 undefined on input li
-ne 1918.
-
-
-LaTeX Warning: Reference `tab:instagram' on page 66 undefined on input line 191
-8.
-
-File: images/Q5/telegram_community_size_decay.png Graphic file (type bmp)
-<images/Q5/telegram_community_size_decay.png>
-
-LaTeX Warning: Reference `fig:telegram_decay' on page 66 undefined on input lin
-e 1927.
-
-[66]
-File: images/Q5/twitter_community_size_decay.png Graphic file (type bmp)
-<images/Q5/twitter_community_size_decay.png>
-
-
-LaTeX Warning: Reference `fig:twitter_decay' on page 67 undefined on input line
- 1936.
-
-
-LaTeX Warning: Reference `tab:twitter' on page 67 undefined on input line 1936.
-
-
-
-Overfull \hbox (139.32144pt too wide) in paragraph at lines 1945--1962
- [][][][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `fig:instagram_decay' on page 67 undefined on input li
-ne 1966.
-
-
-LaTeX Warning: Reference `fig:instagram_decay' on page 67 undefined on input li
-ne 1966.
-
-[67] [68]
-Overfull \hbox (145.42984pt too wide) in paragraph at lines 1982--1999
- [][][][] 
- []
-
-
-LaTeX Warning: Reference `fig:telegram_decay' on page 69 undefined on input lin
-e 2004.
-
-[69]
-Overfull \hbox (122.15347pt too wide) in paragraph at lines 2015--2032
- [][][][] 
- []
-
-
-LaTeX Warning: Reference `fig:twitter_decay' on page 70 undefined on input line
- 2038.
-
-
-Overfull \hbox (1.3729pt too wide) in paragraph at lines 2039--2040
-[][]\TU/XBYas(0)/b/n/10 تنوع نمایندگان: \TU/XBYas(0)/m/n/10 نمایندگان انجمن‌ها 
-طیف وسیعی از جریان‌ها را پوشش می‌دهند. از حساب‌های[]
- []
-
-[70]
-
-LaTeX Warning: Reference `fig:twitter_decay' on page 71 undefined on input line
- 2041.
-
-
-LaTeX Warning: Reference `fig:instagram_decay' on page 71 undefined on input li
-ne 2045.
-
-
-LaTeX Warning: Reference `fig:telegram_decay' on page 71 undefined on input lin
-e 2045.
-
-
-LaTeX Warning: Reference `fig:twitter_decay' on page 71 undefined on input line
- 2045.
-
-
-LaTeX Warning: Reference `fig:instagram_decay' on page 71 undefined on input li
-ne 2046.
-
-
-LaTeX Warning: Reference `fig:telegram_decay' on page 71 undefined on input lin
-e 2047.
-
-
-LaTeX Warning: Reference `fig:twitter_decay' on page 71 undefined on input line
- 2048.
-
-[71]
-File: images/Q6/instagram_volume_series.png Graphic file (type bmp)
-<images/Q6/instagram_volume_series.png>
- [72]
-
-LaTeX Warning: Reference `fig:insta_series' on page 73 undefined on input line 
-2095.
-
-File: images/Q6/instagram_activity_ratio_distribution.png Graphic file (type bm
-p)
-<images/Q6/instagram_activity_ratio_distribution.png>
-
-LaTeX Warning: Reference `fig:insta_dist' on page 73 undefined on input line 21
-04.
-
-File: images/Q6/instagram_sparklines_Inside_Iran.png Graphic file (type bmp)
-<images/Q6/instagram_sparklines_Inside_Iran.png>
-[73]
-
-LaTeX Warning: Reference `fig:insta_spark_inside' on page 74 undefined on input
- line 2113.
-
-
-LaTeX Warning: Reference `tab:insta_top_inside' on page 74 undefined on input l
-ine 2122.
-
-File: images/Q6/instagram_sparklines_Outside_Iran.png Graphic file (type bmp)
-<images/Q6/instagram_sparklines_Outside_Iran.png>
-
-LaTeX Warning: Reference `fig:insta_spark_out' on page 74 undefined on input li
-ne 2131.
-
-[74]
-File: images/Q6/telegram_volume_series.png Graphic file (type bmp)
-<images/Q6/telegram_volume_series.png>
-
-
-LaTeX Warning: Reference `fig:tele_series' on page 75 undefined on input line 2
-175.
-
-File: images/Q6/telegram_activity_ratio_distribution.png Graphic file (type bmp
-)
-<images/Q6/telegram_activity_ratio_distribution.png>
-
-LaTeX Warning: Reference `fig:tele_dist' on page 75 undefined on input line 218
-4.
-
-[75] [76]
-File: images/Q6/telegram_sparklines_Inside_Iran.png Graphic file (type bmp)
-<images/Q6/telegram_sparklines_Inside_Iran.png>
-
-
-LaTeX Warning: Reference `fig:tele_spark_inside' on page 77 undefined on input 
-line 2193.
-
-
-LaTeX Warning: Citation `watts1998smallworld' on page 77 undefined on input lin
-e 2193.
-
-File: images/Q6/telegram_sparklines_Outside_Iran.png Graphic file (type bmp)
-<images/Q6/telegram_sparklines_Outside_Iran.png>
-
-LaTeX Warning: Reference `fig:tele_spark_out' on page 77 undefined on input lin
-e 2202.
-
-[77]
-File: images/Q6/twitter_volume_series.png Graphic file (type bmp)
-<images/Q6/twitter_volume_series.png>
- [78]
-
-LaTeX Warning: Reference `fig:twit_series' on page 79 undefined on input line 2
-247.
-
-File: images/Q6/twitter_activity_ratio_distribution.png Graphic file (type bmp)
-
-<images/Q6/twitter_activity_ratio_distribution.png>
-
-LaTeX Warning: Reference `fig:twit_dist' on page 79 undefined on input line 225
-6.
-
-File: images/Q6/twitter_sparklines_Inside_Iran.png Graphic file (type bmp)
-<images/Q6/twitter_sparklines_Inside_Iran.png>
-
-LaTeX Warning: Reference `fig:twit_spark_inside' on page 79 undefined on input 
-line 2265.
-
-[79]
-File: images/Q6/twitter_sparklines_Outside_Iran.png Graphic file (type bmp)
-<images/Q6/twitter_sparklines_Outside_Iran.png>
-
-
-LaTeX Warning: Reference `fig:twit_spark_out' on page 80 undefined on input lin
-e 2283.
-
-[80] [81] [82]
-
-LaTeX Warning: Reference `fig:insta_dist' on page 83 undefined on input line 23
-55.
-
-
-LaTeX Warning: Reference `fig:tele_dist' on page 83 undefined on input line 235
-5.
-
-
-LaTeX Warning: Reference `fig:twit_dist' on page 83 undefined on input line 235
-5.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2364--2366
-[][]
- []
-
-[83]
-Overfull \hbox (4.06111pt too wide) in paragraph at lines 2385--2386
-[]\TU/XBYas(0)/m/n/10 توییتر نیز روایت‌هایی مشابه تلگرام را منعکس کرده است. ناش
-ران کلیدی مانند \TU/lmtt/m/n/10 pmoiran \TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 s
-imayazaditv[]
- []
-
-[84]
-
-LaTeX Warning: Citation `bbc_isfahan_attack' on page 85 undefined on input line
- 2402.
-
-
-LaTeX Warning: Citation `kayhan_london' on page 85 undefined on input line 2409
-.
-
-
-LaTeX Warning: Citation `bbc_18_dey_report' on page 85 undefined on input line 
-2409.
-
-
-LaTeX Warning: Citation `hrana_arrests' on page 85 undefined on input line 2409
-.
-
-[85]
-
-LaTeX Warning: Citation `bbc_casualties' on page 86 undefined on input line 241
-6.
-
-
-LaTeX Warning: Citation `wikipedia_uprising' on page 86 undefined on input line
- 2416.
-
-
-Overfull \hbox (29.28004pt too wide) in paragraph at lines 2417--2418
-[][]\TU/XBYas(0)/b/n/10 تحلیل شبکه\TU/XBYas(0)/m/n/10 : این رویداد تنها از طریق
- ناشران وابسته به یک جناح سیاسی خاص (\TU/lmtt/m/n/10 mojahedin_org\TU/XBYas(0)/
-m/n/10 )[]
- []
-
-[86]
-
-LaTeX Warning: Citation `bbc_isfahan_attack' on page 87 undefined on input line
- 2438.
-
-
-LaTeX Warning: Citation `rasanknews_baluch' on page 87 undefined on input line 
-2438.
-
-[87]
-File: images/Q7/instagram_event_timeline.png Graphic file (type bmp)
-<images/Q7/instagram_event_timeline.png>
-File: images/Q7/telegram_event_timeline.png Graphic file (type bmp)
-<images/Q7/telegram_event_timeline.png>
-File: images/Q7/twitter_event_timeline.png Graphic file (type bmp)
-<images/Q7/twitter_event_timeline.png>
- [88] [89] [90] [91]
-Underfull \hbox (badness 10000) in paragraph at lines 2513--2515
-[][]
- []
-
-[92
-
-]
-Overfull \hbox (98.2455pt too wide) in paragraph at lines 2535--2536
-[][]\TU/XBYas(0)/m/it/10 تحلیل قصد: \TU/XBYas(0)/m/n/10 با توجه به نقشه‌های حرا
-رتی (برای مثال در \TU/lmtt/m/n/10 twitter_combined_coordination_heatmaps.png\TU
-/XBYas(0)/m/n/10 ،[]
- []
-
-
-Overfull \hbox (15.667pt too wide) in paragraph at lines 2541--2542
-[][]\TU/XBYas(0)/m/it/10 تحلیل قصد: \TU/XBYas(0)/m/n/10 با مراجعه به جدول \TU/l
-mtt/m/n/10 telegram_fixed_community_attribution.png\TU/XBYas(0)/m/n/10 ،[]
- []
-
-
-Overfull \hbox (15.85481pt too wide) in paragraph at lines 2547--2548
-[][]\TU/XBYas(0)/m/it/10 تحلیل قصد: \TU/XBYas(0)/m/n/10 نقشه حرارتی \TU/lmtt/m/
-n/10 instagram_combined_coordination_heatmaps.png[]
- []
-
-
-Overfull \hbox (102.27255pt too wide) in paragraph at lines 2547--2548
-[]\TU/XBYas(0)/m/n/10 مقادیر ۰.‏۰ تا ۰.‏۱ را برای این شاخص نشان می‌دهد، اما جدو
-ل \TU/lmtt/m/n/10 twitter_fixed_community_attribution.png[]
- []
-
-
-Overfull \hbox (1.4239pt too wide) in paragraph at lines 2548--2549
-[][]\TU/XBYas(0)/m/it/10 شک رسانه‌ای: \TU/XBYas(0)/m/n/10 در زمان دریافت، بررسی
- همزمان دسترسی کاربران در شهرهای مختلف می‌توانست[]
- []
-
-[93]
-Overfull \hbox (7.4069pt too wide) in paragraph at lines 2559--2560
-[][]\TU/XBYas(0)/m/it/10 تحلیل قصد: \TU/XBYas(0)/m/n/10 در جدول \TU/lmtt/m/n/10
- telegram_fixed_community_attribution.png\TU/XBYas(0)/m/n/10 ، جوامع[]
- []
-
-File: images/Q8/instagram_combined_coordination_heatmaps.png Graphic file (type
- bmp)
-<images/Q8/instagram_combined_coordination_heatmaps.png>
-File: images/Q8/telegram_combined_coordination_heatmaps.png Graphic file (type 
-bmp)
-<images/Q8/telegram_combined_coordination_heatmaps.png>
-File: images/Q8/twitter_combined_coordination_heatmaps.png Graphic file (type b
-mp)
-<images/Q8/twitter_combined_coordination_heatmaps.png>
-
-LaTeX Warning: Reference `fig:instagram-heat' on page 94 undefined on input lin
-e 2596.
-
-
-LaTeX Warning: Reference `fig:telegram-heat' on page 94 undefined on input line
- 2597.
-
-
-LaTeX Warning: Reference `tab:telegram-attribution' on page 94 undefined on inp
-ut line 2597.
-
-
-LaTeX Warning: Reference `fig:twitter-heat' on page 94 undefined on input line 
-2598.
-
-[94]
-
-LaTeX Warning: Reference `tab:instagram-attribution' on page 95 undefined on in
-put line 2620.
-
-
-LaTeX Warning: Reference `tab:telegram-attribution' on page 95 undefined on inp
-ut line 2644.
-
-
-LaTeX Warning: Reference `tab:twitter-attribution' on page 95 undefined on inpu
-t line 2668.
-
-[95]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 46 on input line 2722.
-
-[96]
-
-LaTeX Warning: Reference `tab:top-coordinators' on page 97 undefined on input l
-ine 2724.
-
-
-Overfull \hbox (10.42259pt too wide) in paragraph at lines 2727--2728
-[][]\TU/XBYas(0)/b/n/10 الگوی چندپلتفرمی: \TU/XBYas(0)/m/n/10 اکانت‌هایی مانند 
-\TU/lmtt/m/n/10 indypersian\TU/XBYas(0)/m/n/10 ، \TU/lmtt/m/n/10 iranwire\TU/XB
-Yas(0)/m/n/10 ، \TU/lmtt/m/n/10 tavaana \TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 b
-bcpersian[]
- []
-
-
-LaTeX Warning: Reference `tab:instagram-attribution' on page 97 undefined on in
-put line 2731.
-
-
-Overfull \hbox (5.29178pt too wide) in paragraph at lines 2733--2734
-[][]\TU/XBYas(0)/m/n/10 در توییتر، جامعه ۱۰ که در چندین محور فعال بود، با اکانت
-‌های \TU/lmtt/m/n/10 indypersian \TU/XBYas(0)/m/n/10 و \TU/lmtt/m/n/10 iranintl
-[]
- []
-
-
-Overfull \hbox (3.76666pt too wide) in paragraph at lines 2739--2740
-[][]\TU/XBYas(0)/m/n/10 اکانت‌های شخصی مانند \TU/lmtt/m/n/10 ariu44222763 \TU/X
-BYas(0)/m/n/10 (توییتر، جامعه ۱۰) و \TU/lmtt/m/n/10 khosror55831 \TU/XBYas(0)/m
-/n/10 (توییتر،[]
- []
-
-[97]
-
-LaTeX Warning: Reference `fig:heatmaps' on page 98 undefined on input line 2747
-.
-
-
-LaTeX Warning: Reference `tab:instagram-attribution' on page 98 undefined on in
-put line 2748.
-
-
-LaTeX Warning: Reference `tab:telegram-attribution' on page 98 undefined on inp
-ut line 2748.
-
-
-LaTeX Warning: Reference `tab:twitter-attribution' on page 98 undefined on inpu
-t line 2748.
-
-
-LaTeX Warning: Reference `tab:top-coordinators' on page 98 undefined on input l
-ine 2749.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2762--2764
-[][]
- []
-
-[98]
-
-LaTeX Warning: Citation `barabasi1999scaling' on page 99 undefined on input lin
-e 2765.
-
-
-LaTeX Warning: Reference `tab:triads' on page 99 undefined on input line 2771.
-
-[99]
-
-LaTeX Warning: Reference `tab:communities_telegram' on page 100 undefined on in
-put line 2798.
-
-Missing character: There is no � in font [./fonts/XB Yas.ttf]/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-[100]
-
-LaTeX Warning: Reference `tab:communities_twitter' on page 101 undefined on inp
-ut line 2822.
-
-[101]
-
-LaTeX Warning: Citation `brin1998pagerank' on page 102 undefined on input line 
-2856.
-
-[102]
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2886--2890
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2890--2895
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2895--2898
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2898--2901
- [] [] [] 
- []
-
-Missing character: There is no ❤ in font [./fonts/XB Yas.ttf]/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ️ in font [./fonts/XB Yas.ttf]/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2901--2914
- [] [] [] 
- []
-
-[103]
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2920--2924
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2924--2929
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2929--2932
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2932--2935
- [] [] [] 
- []
-
-
-Underfull \hbox (badness 1297) in paragraph at lines 2937--2937
-[][]|\TU/XBYas(0)/m/n/10 ’حمله نیروهای حکومتی به معترضان در[]
- []
-
-Missing character: There is no ️ in font [./fonts/XB Yas.ttf]/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no 🔴 in font [./fonts/XB Yas.ttf]/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ✈ in font [./fonts/XB Yas.ttf]/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ️ in font [./fonts/XB Yas.ttf]/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-
-Underfull \hbox (badness 1845) in paragraph at lines 2945--2946
-[][]|\TU/XBYas(0)/b/n/10 اختلال: \TU/XBYas(0)/m/n/10 توقف پروازها (نماد هرج و م
-رج). \TU/XBYas(0)/b/n/10 اهمیت[]
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2935--2948
- [] [] [] 
- []
-
-[104]
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2954--2958
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2958--2963
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2963--2966
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2966--2969
- [] [] [] 
- []
-
-
-Overfull \hbox (76.71216pt too wide) in alignment at lines 2969--2982
- [] [] [] 
- []
-
-
-Overfull \hbox (7.75018pt too wide) in paragraph at lines 2984--2985
-[]\TU/XBYas(0)/m/n/10 متمرکز شده است. سایر کاربران ([]\TU/lmroman10-regular(0)/
-m/n/10 alighazizade[]\TU/XBYas(0)/m/n/10 ، []\TU/lmroman10-regular(0)/m/n/10 hi
-chkasofficial[]\TU/XBYas(0)/m/n/10 ) به عنوان «پل‌های ارتباطی» ([]\TU/lmroman10
--regular(0)/m/n/10 Bridges[]\TU/XBYas(0)/m/n/10 )[]
- []
-
-[105]
-
-LaTeX Warning: Citation `harcup2001' on page 106 undefined on input line 2993.
-
-
-LaTeX Warning: Citation `harcup2017' on page 106 undefined on input line 2993.
-
-File: images/Q10/instagram_15_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/instagram_15_Day_wordcloud.png>
-File: images/Q10/telegram_15_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/telegram_15_Day_wordcloud.png>
-File: images/Q10/twitter_15_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/twitter_15_Day_wordcloud.png>
-File: images/Q10/instagram_16_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/instagram_16_Day_wordcloud.png>
-File: images/Q10/telegram_16_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/telegram_16_Day_wordcloud.png>
-File: images/Q10/twitter_16_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/twitter_16_Day_wordcloud.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[106]
-File: images/Q10/instagram_17_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/instagram_17_Day_wordcloud.png>
-File: images/Q10/telegram_17_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/telegram_17_Day_wordcloud.png>
-File: images/Q10/twitter_17_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/twitter_17_Day_wordcloud.png>
-File: images/Q10/instagram_18_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/instagram_18_Day_wordcloud.png>
-File: images/Q10/telegram_18_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/telegram_18_Day_wordcloud.png>
-File: images/Q10/twitter_18_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/twitter_18_Day_wordcloud.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[107]
-File: images/Q10/instagram_19_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/instagram_19_Day_wordcloud.png>
-File: images/Q10/telegram_19_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/telegram_19_Day_wordcloud.png>
-File: images/Q10/twitter_19_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/twitter_19_Day_wordcloud.png>
-File: images/Q10/instagram_20_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/instagram_20_Day_wordcloud.png>
-File: images/Q10/telegram_20_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/telegram_20_Day_wordcloud.png>
-File: images/Q10/twitter_20_Day_wordcloud.png Graphic file (type bmp)
-<images/Q10/twitter_20_Day_wordcloud.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[108] [109]
-Overfull \hbox (7.50826pt too wide) in paragraph at lines 3165--3166
-[][]\TU/XBYas(0)/b/n/10 روزهای پایانی (۱۹-‏۲۰ دی): \TU/XBYas(0)/m/n/10 ارزش‌های
- «نمادین و هویتی» مانند برافراشته شدن پرچم‌ها و «واکنش‌های[]
- []
-
-
-LaTeX Warning: Citation `chatgpt2024socialnetworkproject' on page 110 undefined
- on input line 3171.
-
-[110] (main.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 29--33
-[][]$[][][] [] [] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][] []$[][]
- []
-
-[111])
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-[112] (main.aux)
- ***********
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
- ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
-Here is how much of TeX's memory you used:
- 24745 strings out of 402982
- 554254 string characters out of 5448473
- 1092950 words of memory out of 5000000
- 52967 multiletter control sequences out of 15000+600000
- 634729 words of font info for 105 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 93i,17n,96p,972b,638s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on main.pdf (112 pages).
+File: images/Q4/telegram_Community_Separated_Map.png Graphic file 
